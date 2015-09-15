@@ -1,0 +1,98 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="{{ url_for('static', filename = 'bootstrap.min.css') }}">
+        <style>
+            body {
+                padding-top: 50px;
+                padding-bottom: 20px;
+            }
+        </style>
+        <style>
+      		#map { height: 500px }
+    	</style>
+        <link rel="stylesheet" href="{{ url_for('static', filename = 'bootstrap-theme.min.css') }}">
+        <link rel="stylesheet" href="{{ url_for('static', filename = 'main.css') }}">
+
+        
+
+        <script src="{{ url_for('static', filename = 'modernizr-2.8.3.min.js') }}"></script>
+    </head>
+    <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Metallica Tour History</a>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+
+      	<div id="map" class="col-md-12"></div>
+        <script type="text/javascript">
+
+			var map;
+			function initMap() {
+			  map = new google.maps.Map(document.getElementById('map'), {
+			    center: {lat: -34.397, lng: 150.644},
+			    zoom: 8
+			  });
+			}
+
+    	</script>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-4">
+          <h2>Heading</h2>
+          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>Heading</h2>
+          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+       </div>
+        <div class="col-md-4">
+          <h2>Heading</h2>
+          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div>
+      </div>
+
+      <hr>
+
+      <footer>
+        <p>&copy; Company 2015</p>
+      </footer>
+    </div> <!-- /container -->        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+        <script src="{{ url_for('static', filename = 'jquery-1.11.2.min.js') }}"></script>
+
+        <script src="{{ url_for('static', filename = 'bootstrap.min.js') }}"></script>
+
+        <script src="{{ url_for('static', filename = 'main.js') }}"></script>
+
+    	<script async defer
+	      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD4Eou1cEa5tMgKakw5SSjwfNrnNeQ9TPo&callback=initMap">
+	    </script>
+    </body>
+</html>
