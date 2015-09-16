@@ -58,7 +58,9 @@ def tour_spider(max_year):
 
 				except AttributeError:
 					print("N/A")
-					fw.write("N/A" + '\n')
+					fw.write('N/A')
+					fw.write('\n')
+
 
 				fw.write('\n')
 

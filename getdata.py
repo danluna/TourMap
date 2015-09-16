@@ -1,8 +1,14 @@
-import concert
+import concert, time
+from geopy.geocoders import Nominatim
+from geopy.exc import GeocoderTimedOut
 
 date = city = venue = link = None
 setlist = []
 concerts = {}
+coordinates = {}
+geolocator = Nominatim()
+
+twoe = open("coordinates.txt", 'w')
 
 lineType = 1  # 1: date, 2: city, 3: venue, 4: link, 5: setlist 6: empty 
 
@@ -21,6 +27,10 @@ with open('metallica_data.txt') as f:
 		elif lineType == 4:	# Process link
 			link = line.strip()
 
+			if link == 'N/A':  # A setlist was not available for this show
+				link = "Setlist Not Available"
+				lineType = 5
+
 		elif lineType == 5:	# Process setlist
 			# Check for end of setlist (empty line)
 			if not line.strip():
@@ -29,6 +39,19 @@ with open('metallica_data.txt') as f:
 					concerts[city].append(concert.Concert(date, city, venue, link, setlist))
 				else:
 					concerts[city] = [concert.Concert(date, city, venue, link, setlist)]
+					
+					# Get coordiantes from geopy
+					while(1): 
+						try:
+							location = geolocator.geocode(city)
+							break
+						except GeocoderTimedOut as e:
+							print("geocode failed")
+
+					print(city + " " + date + " " + venue + " " + link)
+					coordinates[city] = (location.latitude, location.longitude)
+					#print(city + ": %.2f  %.2f" % (coordinates[city][0], coordinates[city][1]))
+					twoe.write(city + ": " + str(location.latitude) + " " + str(location.longitude) + '\n')
 
 				lineType = 0	
 			else: 
@@ -37,6 +60,7 @@ with open('metallica_data.txt') as f:
 		if lineType != 5:
 			lineType += 1
 
-		
+twoe.close()
+
 for value in concerts["Madrid, Spain"]:
 	print(value.date)

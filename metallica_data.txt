@@ -67,6 +67,7 @@ Metal Militia
 Costa Mesa, CA
 The Concert Factory
 N/A
+
 6/5/1982
 Anaheim, CA
 Radio City
@@ -482,18 +483,22 @@ Whiplash
 Pasadena, MD
 The Sand Bar
 N/A
+
 5/7/1983
-Sayreville, NY
+Sayreville, NJ
 Willy's
 N/A
+
 7/27/1983
 New Brunswick, NJ
 Royal Manor
 N/A
+
 7/28/1983
 Bridgeport, CT
 Utopia
 N/A
+
 7/29/1983
 Yonkers, NY
 Rising Sun
@@ -514,14 +519,17 @@ Metal Militia
 Boston, MA
 The Rat
 N/A
+
 7/31/1983
 Boston, MA
 The Rat
 N/A
+
 8/2/1983
 Jamestown, NY
 Melody Inn
 N/A
+
 8/3/1983
 Buffalo, NY
 Rooftop Skyroom
@@ -542,6 +550,7 @@ Motorbreath
 Rochester, NY
 Riverboat
 N/A
+
 8/5/1983
 Elmhurst, NY
 L'Amour East
@@ -578,10 +587,12 @@ Motorbreath
 Long Island, NY
 Cheers
 N/A
+
 8/8/1983
 Morganville, NJ
 Sports 9 Skateway
 N/A
+
 8/9/1983
 Baltimore, MD
 Seagull Inn
@@ -628,46 +639,57 @@ Metal Militia
 Milwaukee, WI
 Mickey's
 N/A
+
 8/16/1983
 Bald Knob, AR
 Bald Knob Ampitheatre
 N/A
+
 8/17/1983
 Pine Bluff, AR
 Pine Bluff Convention Center
 N/A
+
 8/18/1983
 Russellville, AR
 Tucker Coliseum
 N/A
+
 8/19/1983
 Texarkana, TX
 Texarkana Community College
 N/A
+
 8/20/1983
 Roland, OK
 Harry's
 N/A
+
 8/22/1983
 Tyler, TX
 Harvey Hall
 N/A
+
 8/24/1983
 Austin, TX
 The Nightlife
 N/A
+
 8/25/1983
 San Antonio, TX
 Daddy's
 N/A
+
 8/26/1983
 Odessa, TX
 Unknown Venue
 N/A
+
 8/27/1983
 Portales, NM
 Eastern New Mexico University
 N/A
+
 8/28/1983
 Las Cruces, NM
 Corbett Center Ballroom
@@ -688,6 +710,7 @@ Motorbreath
 Los Angeles, CA
 Perkins Place
 N/A
+
 8/30/1983
 Reseda, CA
 Country Club
@@ -740,10 +763,12 @@ Metal Militia
 San Francisco, CA
 The Stone
 N/A
+
 10/31/1983
 Palo Alto, CA
 Keystone
 N/A
+
 11/4/1983
 Reseda, CA
 Country Club
@@ -782,14 +807,17 @@ Metal Militia
 Portland, OR
 Starry Night
 N/A
+
 11/18/1983
 Bellevue, WA
 Lake Hills Arena
 N/A
+
 11/24/1983
 Palo Alto, CA
 Keystone
 N/A
+
 11/25/1983
 Berkeley, CA
 Keystone
@@ -832,22 +860,27 @@ Metal Militia
 Madison, WI
 The Palms
 N/A
+
 1/7/1984
 Port Jervis, NY
 The State Theater
 N/A
+
 1/11/1984
 Rochester, NY
 Riverboat
 N/A
+
 1/15/1984
 South River, NJ
 Union Jack
 N/A
+
 1/20/1984
 Middletown, NY
 J. Bee's Rock III
 N/A
+
 1/21/1984
 Valley Stream, NY
 Rio Theatre
@@ -1133,6 +1166,7 @@ Metal Militia
 Rouen, France
 Exo 7
 N/A
+
 11/17/1984
 Poperinge, Belgium
 Maecke Blyde
@@ -1512,6 +1546,7 @@ Motorbreath
 Lieto, Finland
 Travashovi
 N/A
+
 12/15/1984
 Nivala, Finland
 Tuiskula
@@ -1574,6 +1609,7 @@ Metal Militia
 Scotia, NY
 Skyway Club
 N/A
+
 1/11/1985
 Hartford, CT
 Agora
@@ -1723,10 +1759,12 @@ Motorbreath
 Scranton, PA
 West Side Theatre
 N/A
+
 1/23/1985
 Poughkeepsie, NY
 Mid-Hudson Civic Center
 N/A
+
 1/25/1985
 Brooklyn, NY
 L'Amour
@@ -1859,6 +1897,7 @@ Motorbreath
 Kalamazoo, MI
 State Theatre
 N/A
+
 2/5/1985
 Madison, WI
 Headliners
@@ -1916,6 +1955,7 @@ Metal Militia
 Milwaukee, WI
 Eagles Ballroom
 N/A
+
 2/9/1985
 Chicago, IL
 Aragon Ballroom
@@ -1939,58 +1979,72 @@ Motorbreath
 Green Bay, WI
 Carlton West
 N/A
+
 2/13/1985
 Cedar Rapids, IA
 Veterans Memorial Coliseum
 N/A
+
 2/14/1985
 Burlington, IA
 Burlington Memorial Auditorium
 N/A
+
 2/15/1985
 St. Louis, MO
 Reflections
 N/A
+
 2/16/1985
 Kansas City, MO
 Uptown Theater
 N/A
+
 2/17/1985
 Wichita, KS
 Cotillion
 N/A
+
 2/20/1985
 Tulsa, OK
 Cain's Ballroom
 N/A
+
 2/21/1985
 Austin, TX
 City Coliseum
 N/A
+
 2/22/1985
 Corpus Christi, TX
 Ritz Music Hall
 N/A
+
 2/25/1985
 San Antonio, TX
 Cameo Theater
 N/A
+
 2/26/1985
 Houston, TX
 Cardi's
 N/A
+
 2/27/1985
 Dallas, TX
 Arcadia
 N/A
+
 2/28/1985
 Houston, TX
 Cardi's
 N/A
+
 3/2/1985
 El Paso, TX
 The Big Apple Night Club
 N/A
+
 3/3/1985
 Albuquerque, NM
 Graham Central Station
@@ -2014,14 +2068,17 @@ Motorbreath
 Colorado Springs, CO
 DJ's
 N/A
+
 3/5/1985
 Denver, CO
 Rainbow Music Hall
 N/A
+
 3/6/1985
 Phoenix, AZ
 State Theatre
 N/A
+
 3/9/1985
 San Diego, CA
 The Backdoor
@@ -2061,10 +2118,12 @@ Motorbreath
 Phoenix, AZ
 Palace West
 N/A
+
 3/13/1985
 Palo Alto, CA
 Keystone
 N/A
+
 3/14/1985
 San Francisco, CA
 Kabuki Theater
@@ -2248,7 +2307,7 @@ Am I Evil?
 Damage, Inc.
 
 4/10/1986
-Erie, PN
+Erie, PA
 Civic Center
 http://www.metallica.com/tour/apr-10-1986-erie.asp
 Battery
@@ -2628,6 +2687,7 @@ Damage, Inc.
 Tulsa, OK
 Cain's Ballroom
 N/A
+
 5/24/1986
 Cape Girardeau, MO
 Arena Building
@@ -2700,6 +2760,7 @@ Whiplash
 Eau Claire, WI
 Old Mill Expo Center
 N/A
+
 5/30/1986
 Davenport, IA
 The Col Ballroom
@@ -2722,30 +2783,37 @@ Motorbreath
 Decatur, IL
 Civic Arena
 N/A
+
 6/1/1986
 Omaha, NE
 Peony Park
 N/A
+
 6/3/1986
 Dallas, TX
 Bronco Bowl
 N/A
+
 6/4/1986
 Corpus Christi, TX
 Memorial Coliseum
 N/A
+
 6/5/1986
 McAllen, TX
 La Villa Real Convention Center
 N/A
+
 6/6/1986
 San Antonio, TX
 Majestic Theatre
 N/A
+
 6/7/1986
 Odessa, TX
 Ector County Coliseum
 N/A
+
 1/8/1987
 Copenhagen, Denmark
 Falkoner Theatre
@@ -4242,6 +4310,7 @@ Whiplash
 Dublin, Ireland
 Top Hat
 N/A
+
 10/6/1988
 Newcastle, England
 City Hall
@@ -4292,10 +4361,12 @@ Whiplash
 Memphis, TN
 Mid-South Coliseum
 N/A
+
 1/14/1989
 Birmingham, AL
 Birmingham-Jefferson Civic Coliseum
 N/A
+
 1/15/1989
 New Orleans, LA
 UNO Lakefront Arena
@@ -4323,6 +4394,7 @@ Whiplash
 Waco, TX
 Heart O' Texas Coliseum
 N/A
+
 1/18/1989
 Odessa, TX
 Ector County Coliseum
@@ -4373,6 +4445,7 @@ Whiplash
 El Paso, TX
 UTEP Special Events Center
 N/A
+
 1/22/1989
 Amarillo, TX
 Amarillo Civic Center
@@ -4399,14 +4472,17 @@ Whiplash
 Beaumont, TX
 Beaumont Civic Center
 N/A
+
 1/25/1989
 Corpus Christi, TX
 Memorial Coliseum
 N/A
+
 1/27/1989
 Shreveport, LA
 Hirsch Memorial Coliseum
 N/A
+
 1/28/1989
 Tulsa, OK
 Expo Square Pavilion
@@ -4435,6 +4511,7 @@ Breadfan
 Abilene, TX
 Civic Center
 N/A
+
 2/1/1989
 San Antonio, TX
 Convention Center Arena
@@ -4485,6 +4562,7 @@ Whiplash
 Houston, TX
 Sam Houston Coliseum
 N/A
+
 2/5/1989
 Dallas, TX
 Reunion Arena
@@ -4534,6 +4612,7 @@ Whiplash
 Huntsville, AL
 Von Braun Civic Center
 N/A
+
 2/10/1989
 Lakeland, FL
 Lakeland Civic Center
@@ -4676,6 +4755,7 @@ Whiplash
 Atlanta, GA
 The Omni
 N/A
+
 2/19/1989
 Greensboro, NC
 Greensboro Coliseum
@@ -4703,6 +4783,7 @@ Breadfan
 Fayetteville, NC
 Cumberland County Civic Center
 N/A
+
 2/26/1989
 Charlotte, NC
 Charlotte Coliseum
@@ -5097,6 +5178,7 @@ Breadfan
 Portland, ME
 Cumberland County Civic Center
 N/A
+
 4/1/1989
 Moncton, Canada
 Moncton Coliseum
@@ -5123,6 +5205,7 @@ Whiplash
 Sydney, Canada
 Centre 200
 N/A
+
 4/4/1989
 Halifax, Canada
 Halifax Metro Centre
@@ -5446,7 +5529,7 @@ Am I Evil?
 Battery
 
 8/13/1991
-Chorzzw, Poland
+Chorzow, Poland
 Silesian Stadium
 http://www.metallica.com/tour/aug-13-1991-katowice.asp
 Enter Sandman
@@ -5648,6 +5731,7 @@ Battery
 Oldenburg, Germany
 Weser-Ems-Halle
 N/A
+
 9/11/1991
 Graz, Austria
 Stadion Liebenau
@@ -7122,14 +7206,17 @@ Battery
 Denver, CO
 McNichols Sports Arena
 N/A
+
 2/7/1992
 Denver, CO
 McNichols Sports Arena
 N/A
+
 2/8/1992
 Denver, CO
 McNichols Sports Arena
 N/A
+
 2/10/1992
 Salt Lake City, UT
 Delta Center
@@ -8356,6 +8443,7 @@ Battery
 Mexico City, Mexico
 Palacio de los Deportes
 N/A
+
 2/26/1993
 Mexico City, Mexico
 Palacio de los Deportes
@@ -8387,6 +8475,7 @@ Battery
 Mexico City, Mexico
 Palacio de los Deportes
 N/A
+
 3/1/1993
 Mexico City, Mexico
 Palacio de los Deportes
@@ -8446,14 +8535,17 @@ Stone Cold Crazy
 Honolulu, HI
 Neal S. Blaisdell Arena
 N/A
+
 3/13/1993
 Honolulu, HI
 Neal S. Blaisdell Arena
 N/A
+
 3/16/1993
 Tokyo, Japan
 Yoyogi Olympic Pool
 N/A
+
 3/17/1993
 Tokyo, Japan
 Yoyogi Olympic Pool
@@ -8904,6 +8996,7 @@ Enter Sandman
 Singapore, Singapore
 Singapore Indoor Stadium
 N/A
+
 4/15/1993
 Bangkok, Thailand
 Thai-Japanese Bangkok Youth Center
@@ -8958,7 +9051,7 @@ One
 Battery
 
 5/1/1993
-SSo Paulo, Brazil
+Sao Paulo, Brazil
 Estadio Palestra Italia
 http://www.metallica.com/tour/may-1-1993-sao-paulo.asp
 Enter Sandman
@@ -8984,7 +9077,7 @@ One
 Stone Cold Crazy
 
 5/2/1993
-SSo Paulo, Brazil
+Sao Paulo, Brazil
 Estadio Palestra Italia
 http://www.metallica.com/tour/may-2-1993-sao-paulo.asp
 Enter Sandman
@@ -14210,7 +14303,7 @@ Enter Sandman
 Battery
 
 5/8/1999
-SSo Paulo, Brazil
+Sao Paulo, Brazil
 Sambodromo
 http://www.metallica.com/tour/may-8-1999-sao-paulo.asp
 Breadfan
@@ -16687,7 +16780,7 @@ One
 Enter Sandman
 
 8/17/2003
-Grrfenhainichen, Germany
+Grafenhainichen, Germany
 Ferropolis
 http://www.metallica.com/tour/aug-17-2003-grafenhainichen.asp
 Battery
@@ -17998,7 +18091,7 @@ Leper Messiah
 Seek and Destroy
 
 5/31/2004
-Chorzzw, Poland
+Chorzow, Poland
 Slaski Stadium
 http://www.metallica.com/tour/may-31-2004-chorzow.asp
 Blackened
@@ -18797,7 +18890,7 @@ So What
 Seek and Destroy
 
 5/28/2008
-Chorzzw, Poland
+Chorzow, Poland
 Slaski Stadium
 http://www.metallica.com/tour/may-28-2008-chorzow.asp
 Creeping Death
@@ -21064,7 +21157,7 @@ Fight Fire with Fire
 Seek and Destroy
 
 1/24/2010
-CCrdoba, Argentina
+Cordoba, Argentina
 Orfeo Superdomo
 http://www.metallica.com/tour/jan-24-2010-cordoba.asp
 Creeping Death
@@ -21133,7 +21226,7 @@ Phantom Lord
 Seek and Destroy
 
 1/30/2010
-SSo Paulo, Brazil
+Sao Paulo, Brazil
 Morumbi Stadium
 http://www.metallica.com/tour/jan-30-2010-sao-paulo.asp
 Creeping Death
@@ -21156,7 +21249,7 @@ Motorbreath
 Seek and Destroy
 
 1/31/2010
-SSo Paulo, Brazil
+Sao Paulo, Brazil
 Morumbi Stadium
 http://www.metallica.com/tour/jan-31-2010-sao-paulo.asp
 Creeping Death
@@ -22421,6 +22514,7 @@ Delhi, India
 F1 Rocks
 http://www.metallica.com/tour/oct-28-2011-delhi.asp
 N/A
+
 10/30/2011
 Bangalore, India
 Bangalore Palace Ground - Main Palace
@@ -23952,7 +24046,7 @@ Hit the Lights (Vote of the Day Song)
 Seek and Destroy
 
 3/22/2014
-SSo Paulo, Brazil
+Sao Paulo, Brazil
 Estadio do Morumbi
 http://www.metallica.com/tour/mar-22-2014-sao-paulo.asp
 Battery
@@ -23975,7 +24069,7 @@ The Day That Never Comes
 Seek and Destroy
 
 3/24/2014
-Asunciin, Paraguay
+Asuncion, Paraguay
 Jockey Club
 http://www.metallica.com/tour/mar-24-2014-asuncion-paraguay.asp
 Battery
@@ -24663,3 +24757,198 @@ Enter Sandman
 Creeping Death
 Whiplash
 Seek and Destroy
+
+8/1/2015
+Chicago, IL
+Lollapalooza @ Grant Park
+http://www.metallica.com/tour/aug-01-2015-lollapalooza.asp
+Fuel
+For Whom the Bell Tolls
+Wherever I May Roam
+King Nothing
+Disposable Heroes
+Welcome Home (Sanitarium)
+Cyanide
+The Unforgiven
+Sad But True
+One
+Master of Puppets
+Creeping Death
+Fade to Black
+Seek and Destroy
+Whiskey in the Jar
+Am I Evil?
+Nothing Else Matters
+Enter Sandman
+
+8/20/2015
+Bergen, Norway
+Bergenhus Fortress
+http://www.metallica.com/tour/aug-20-2015-bergen.asp
+Fuel
+For Whom the Bell Tolls
+Metal Militia
+King Nothing
+Disposable Heroes
+The Day That Never Comes
+Lords of Summer
+The Unforgiven
+Sad But True
+The Frayed Ends of Sanity
+One
+Master of Puppets
+The Memory Remains
+Fade to Black
+Seek and Destroy
+Whiskey in the Jar
+Nothing Else Matters
+Enter Sandman
+
+8/22/2015
+Gothenburg, Sweden
+Ullevi Stadium
+http://www.metallica.com/tour/aug-22-2015-gothenburg.asp
+Fuel
+For Whom the Bell Tolls
+Battery
+King Nothing
+Disposable Heroes
+The Day That Never Comes
+The Memory Remains
+The Unforgiven
+Sad But True
+Turn the Page
+The Frayed Ends of Sanity
+One
+Master of Puppets
+Fade to Black
+Seek and Destroy
+Whiskey in the Jar
+Nothing Else Matters
+Enter Sandman
+
+8/25/2015
+Saint Petersburg, Russia
+SKK Arena
+http://www.metallica.com/tour/aug-25-2015-saint-petersburg.asp
+Fuel
+For Whom the Bell Tolls
+Blackened
+King Nothing
+Disposable Heroes
+The Day That Never Comes
+The Memory Remains
+The Unforgiven
+Sad But True
+Turn the Page
+The Frayed Ends of Sanity
+One
+Master of Puppets
+Fade to Black
+Seek and Destroy
+Whiskey in the Jar
+Nothing Else Matters
+Enter Sandman
+
+8/27/2015
+Moscow, Russia
+Olimpiyskiy Arena
+http://www.metallica.com/tour/aug-27-2015-moscow.asp
+Fuel
+For Whom the Bell Tolls
+Battery
+King Nothing
+Ride the Lightning
+The Unforgiven
+Lords of Summer
+Cyanide
+Sad But True
+Welcome Home (Sanitarium)
+The Frayed Ends of Sanity
+One
+Master of Puppets
+Fade to Black
+Seek and Destroy
+Whiskey in the Jar
+Nothing Else Matters
+Enter Sandman
+
+8/29/2015
+Reading, England
+Reading Festival @ Richfield Avenue
+http://www.metallica.com/tour/aug-29-2015-reading.asp
+Fuel
+For Whom the Bell Tolls
+Battery
+King Nothing
+Ride the Lightning
+The Day That Never Comes
+The Memory Remains
+The Unforgiven
+Sad But True
+Turn the Page
+Wherever I May Roam
+One
+Master of Puppets
+Fade to Black
+Seek and Destroy
+Whiskey in the Jar
+Nothing Else Matters
+Enter Sandman
+
+8/30/2015
+Leeds, England
+Leeds Festival @ Bramham Park
+http://www.metallica.com/tour/aug-30-2015-leeds.asp
+Fuel
+For Whom the Bell Tolls
+Blackened
+King Nothing
+Ride the Lightning
+The Day That Never Comes
+The Memory Remains
+The Unforgiven
+Sad But True
+Turn the Page
+The Frayed Ends of Sanity
+One
+Master of Puppets
+Fade to Black
+Seek and Destroy
+Whiskey in the Jar
+Nothing Else Matters
+Enter Sandman
+
+9/14/2015
+Quebec City, Canada
+Colisee Pepsi
+http://www.metallica.com/tour/sep-14-2015-quebec-city.asp
+Fuel
+For Whom the Bell Tolls
+Blackened
+King Nothing
+Disposable Heroes
+The Day That Never Comes
+The Memory Remains
+Lords of Summer
+Sad But True
+The Unforgiven
+All Nightmare Long
+One
+Master of Puppets
+Fade to Black
+Seek and Destroy
+Whiskey in the Jar
+Nothing Else Matters
+Enter Sandman
+
+9/16/2015
+Quebec City, Canada
+Centre Videotron
+N/A
+
+9/19/2015
+Rio de Janeiro, Brazil
+City of Rock @ Rock in Rio
+http://www.metallica.com/tour/sep-19-2015-rock-in-rio.asp
+
