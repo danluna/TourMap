@@ -63,7 +63,8 @@ with open('coordinates.txt') as f:
 		colonSplit = line.split(': ')
 		city = colonSplit[0]
 		coordSplit = colonSplit[1].split(" ")
-		coordinates[city] = (coordSplit[0].strip(), coordSplit[1].strip())
+		coordinates[city] = (float(coordSplit[0].strip()), (coordSplit[1].strip()))
+		print(type(coordinates[city][0]))
 
 
 

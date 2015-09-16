@@ -49,9 +49,37 @@
 			var map;
 			function initMap() {
 			  map = new google.maps.Map(document.getElementById('map'), {
-			    center: {lat: -34.397, lng: 150.644},
-			    zoom: 8
+			    center: {lat: 40.4333, lng: 3.7000},
+			    zoom: 2
 			  });
+
+			  var markers = new Array();
+			  var counter = 0;
+
+			  {% for k, v in coordinates.iteritems(): %}
+			  
+			  var marker = new google.maps.Marker({
+			  position: {lat: {{ v[0] }}, lng: {{ v[1] }} },
+			  map: map,
+			  animation: google.maps.Animation.DROP,
+			  title: '{{ k }}'
+			  });
+
+			  counter++;
+			  google.maps.event.addListener(marker, 'click', 
+			  	(function(marker, counter) {
+			  		$("#showCity").add( "span" ).css("background", "yellow");
+			  	}));
+			  
+
+			  /*marker.addListener('click', function() {
+			  	$("#showCity").text(marker.getTitle());
+			  	$("#showCity").add( "span" ).css( "background", "yellow" )
+			  });*/
+
+			  //markers.push(marker);
+			 
+			  {% endfor %}
 			}
 
     	</script>
@@ -62,18 +90,8 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-4">
-          <h2>Heading</h2>
+          <h2 id="showCity">Heading</h2>
           <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-       </div>
-        <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
       </div>
