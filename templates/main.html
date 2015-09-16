@@ -53,11 +53,12 @@
 			    zoom: 2
 			  });
 
-			  var markers = new Array();
 			  var counter = 0;
 
 			  {% for k, v in coordinates.iteritems(): %}
 			  
+			  counter++;
+
 			  var marker = new google.maps.Marker({
 			  position: {lat: {{ v[0] }}, lng: {{ v[1] }} },
 			  map: map,
@@ -68,8 +69,11 @@
 			  counter++;
 			  google.maps.event.addListener(marker, 'click', 
 			  	(function(marker, counter) {
-			  		$("#showCity").add( "span" ).css("background", "yellow");
-			  	}));
+			  		return function() {
+			  			$("#showCity").text(marker.getTitle());
+			  			//$("#showCity").add( "span" ).css("background", "yellow");
+			  		}
+			  	})(marker, counter));
 			  
 
 			  /*marker.addListener('click', function() {
