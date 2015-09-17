@@ -75,29 +75,45 @@
 			  	(function(marker, counter) {
 			  		return function() {
 			  			var cityName = marker.getTitle();
+
+
 			  			$("#showCity").text(cityName);
-			  			//${"#showCity"}.text("hi");
 			  			
+			  			// Clear the setlist for a past marker's show
+			  			$("#cityConcertInfo").html("");
+			  			
+			  			// Clear the history list of the past marker
+
 			  			$("#cityHistoryList").html("");
+			  			var showNum = 1;
 			  			// Iterate through the concerts for this city/area
 			  			{% for value in concerts[k]: %}
-			  				$("#cityHistoryList").append("<div class=\"show\"><p>{{ value.venue }}<p><p>{{value.date}}</p></div>");
+			  				$("#cityHistoryList").append("<div id=\"show" + showNum + "\" class=\"show\"><p>{{ value.venue }}<p><p>{{value.date}}</p></div>");
+			  				
 			  				$("#historyTitleCity").text("{{ value.city }}");
 
 			  				// Add an on click event to each date to display
 			  				// the setlist details
+			  				$("#show" + showNum).click(function() {
+			  					$("#cityConcertInfo").html("");
+			  					$("#cityConcertInfo").append("<h2>{{ value.venue }}</h2>");
+			  				});
+
+			  				// Change color of show item when hovering 
+			  				// mouse over to indicate clicking is an option
+			  				$(".show").mouseover(function() {
+
+			  				});
+
+			  				// Change color back after the mouse has left the div
+			  				$(".show").mouseout(function() {
+
+			  				});
+
+			  				showNum++;
 			  			{% endfor %}
 			  		}
-			  	})(marker, counter));
-			  
-
-			  /*marker.addListener('click', function() {
-			  	$("#showCity").text(marker.getTitle());
-			  	$("#showCity").add( "span" ).css( "background", "yellow" )
-			  });*/
-
-			  //markers.push(marker);
-			 
+			  	})(marker, counter));		 
 			  {% endfor %}
 			}
 
@@ -109,7 +125,7 @@
       <!-- Example row of columns -->
       <div class="row">
       	<div class="col-md-12">
-      		<h1>Metallica Tour History: <span id="historyTitleCity"></span></h1>
+      		<h1><span id="historyTitleCity"></span></h1>
       	</div>
       </div>
       <div class="row">
