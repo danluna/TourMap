@@ -17,13 +17,37 @@
 }
 
 #cityConcertInfo {
-	color: black;
+	color: white;
+	background-color: black;
 	font-size: 16px;
 	border-radius: 15px;
+	visibility: hidden;
 }
 
+.jumbotron {
+	margin-bottom: 0px;
+	padding: 5px;
+}
 
+.setlistHeader, #setlistText {
+	font-size: 22px;
+}
 
+body {
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+#title, #historyTitleCity {
+	font-size: 32px;
+}
+
+#title, .setlistHeader, #instructions, #defaultResults {
+	text-align: center;
+}
+
+#instructions, #defaultResults {
+	font-size: 20px;
+}
 
 
 

@@ -1,6 +1,10 @@
+import sys
 import concert, time
 from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut
+
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 date = city = venue = link = None
 setlist = []
@@ -50,9 +54,10 @@ with open('metallica_data.txt') as f:
 					#print(city + ": %.2f  %.2f" % (coordinates[city][0], coordinates[city][1]))
 					#twoe.write(city + ": " + str(location.latitude) + " " + str(location.longitude) + '\n')"""
 
-				lineType = 0	
+				lineType = 0
+				setlist = []	
 			else: 
-				setlist.append(line)
+				setlist.append(line.strip())
 
 		if lineType != 5:
 			lineType += 1
@@ -65,5 +70,7 @@ with open('coordinates.txt') as f:
 		coordSplit = colonSplit[1].split(" ")
 		coordinates[city] = (float(coordSplit[0].strip()), (coordSplit[1].strip()))
 
+for value in concerts["Hamburg, West Germany"]:
+	print(value.setlist);
 
 

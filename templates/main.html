@@ -42,11 +42,13 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-
+      	<div><p id="title">Metallica Tour History</p></div>
       	<div id="map" class="col-md-12"></div>
         <script type="text/javascript">
 
 			var map;
+			var defaultResultsVisible = true;
+
 			function initMap() {
 			  map = new google.maps.Map(document.getElementById('map'), {
 			    center: {lat: 40.4333, lng: 3.7000},
@@ -74,17 +76,23 @@
 			  google.maps.event.addListener(marker, 'click', 
 			  	(function(marker, counter) {
 			  		return function() {
-			  			var cityName = marker.getTitle();
 
+			  			// Check if the default results message is being displayed
+			  			if(defaultResultsVisible) {
+			  				$("#defaultResults").remove();
+			  			}
+
+			  			var cityName = marker.getTitle();
 
 			  			$("#showCity").text(cityName);
 			  			
 			  			// Clear the setlist for a past marker's show
 			  			$("#cityConcertInfo").html("");
+			  			$("#cityConcertInfo").css("visibility", "hidden");
 			  			
 			  			// Clear the history list of the past marker
-
 			  			$("#cityHistoryList").html("");
+
 			  			var showNum = 1;
 			  			// Iterate through the concerts for this city/area
 			  			{% for value in concerts[k]: %}
@@ -95,34 +103,63 @@
 			  				// Add an on click event to each date to display
 			  				// the setlist details
 			  				$("#show" + showNum).click(function() {
+
+			  					// Make the setlist visible
+			  					$("#cityConcertInfo").css("visibility", "visible");
+
 			  					$("#cityConcertInfo").html("");
-			  					$("#cityConcertInfo").append("<h2>{{ value.venue }}</h2>");
-			  				});
+			  					$("#cityConcertInfo").append("<p class=\nsetlistHeader\n>{{ value.venue }}</p>")
+			  						.append("<p class=\nsetlistHeader\n>{{ value.date }}</p>")
+			  						.append("<p class=\nsetlistHeader\n>{{ value.city }}</p>")
+			  						.append("<p id=\nsetlistText\n>Setlist:</p>");
 
-			  				// Change color of show item when hovering 
-			  				// mouse over to indicate clicking is an option
-			  				$(".show").mouseover(function() {
+			  					{% if not value.setlist: %}
+			  					$("#cityConcertInfo").append("<p>Setlist Not Available</p>");
 
-			  				});
+			  					{% else %}
+				  					// Display the setlist
+				  					var songNum = 1;
+				  					{% for song in value.setlist: %}
+				  						$("#cityConcertInfo").append("<p>" + songNum + ". {{ song }}</p>");
+				  						songNum++;
+				  					{% endfor %}
+			  					{% endif %}
 
-			  				// Change color back after the mouse has left the div
-			  				$(".show").mouseout(function() {
-
+			  					$("#cityConcertInfo").append("<p>Check out Metallica's official entry for this show at their website: <a href=\"{{ value.link }}\">Official Show Page</a></p>");
 			  				});
 
 			  				showNum++;
+
+
 			  			{% endfor %}
+
+			  			// Change color of show item when hovering 
+						// mouse over to indicate clicking is an option
+						$(".show").hover(function() {
+						  	$(this).css("background", "#00663A");
+						  	$(this).css("cursor", "pointer");
+						}, function() {
+						  	$(this).css("background", "#000000");
+						  	$(this).css("cursor", "default");
+						});
 			  		}
 			  	})(marker, counter));		 
 			  {% endfor %}
 			}
 
+
     	</script>
+    	<p id="instructions">Click on a marker to view the shows Metallica has played in that city</p>
       </div>
     </div>
 
     <div class="container">
       <!-- Example row of columns -->
+      <div class="row">
+      	<div class="col-md-12">
+      		<p id="defaultResults">Results will be displayed here</p>
+      	</div>
+      </div>
       <div class="row">
       	<div class="col-md-12">
       		<h1><span id="historyTitleCity"></span></h1>
