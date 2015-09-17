@@ -67,11 +67,26 @@
 			  });
 
 			  counter++;
+
+			  // Add an event to the dynamically created marker.
+			  // The click event will send display the tour data for the
+			  // city the marker represents
 			  google.maps.event.addListener(marker, 'click', 
 			  	(function(marker, counter) {
 			  		return function() {
-			  			$("#showCity").text(marker.getTitle());
-			  			//$("#showCity").add( "span" ).css("background", "yellow");
+			  			var cityName = marker.getTitle();
+			  			$("#showCity").text(cityName);
+			  			//${"#showCity"}.text("hi");
+			  			
+			  			$("#cityHistoryList").html("");
+			  			// Iterate through the concerts for this city/area
+			  			{% for value in concerts[k]: %}
+			  				$("#cityHistoryList").append("<div class=\"show\"><p>{{ value.venue }}<p><p>{{value.date}}</p></div>");
+			  				$("#historyTitleCity").text("{{ value.city }}");
+
+			  				// Add an on click event to each date to display
+			  				// the setlist details
+			  			{% endfor %}
 			  		}
 			  	})(marker, counter));
 			  
@@ -93,17 +108,19 @@
     <div class="container">
       <!-- Example row of columns -->
       <div class="row">
-        <div class="col-md-4">
-          <h2 id="showCity">Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+      	<div class="col-md-12">
+      		<h1>Metallica Tour History: <span id="historyTitleCity"></span></h1>
+      	</div>
+      </div>
+      <div class="row">
+        <div id="cityHistoryList" class="col-md-5">
+        </div>
+        <div id="cityConcertInfo" class="col-md-7">
         </div>
       </div>
-
       <hr>
 
       <footer>
-        <p>&copy; Company 2015</p>
       </footer>
     </div> <!-- /container -->        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 

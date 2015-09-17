@@ -4,8 +4,8 @@ from geopy.exc import GeocoderTimedOut
 
 date = city = venue = link = None
 setlist = []
-concerts = {}
-coordinates = {}
+concerts = {}	# city name -> list of Concert objects "Los Angeles" -> [Concert, Concert, Concert]
+coordinates = {}	# city name -> city coordinates tuple e.g.: "Los Angeles" -> (40.234, -12.322)
 geolocator = Nominatim()
 
 lineType = 1  # 1: date, 2: city, 3: venue, 4: link, 5: setlist 6: empty 
@@ -64,7 +64,6 @@ with open('coordinates.txt') as f:
 		city = colonSplit[0]
 		coordSplit = colonSplit[1].split(" ")
 		coordinates[city] = (float(coordSplit[0].strip()), (coordSplit[1].strip()))
-		print(type(coordinates[city][0]))
 
 
 
