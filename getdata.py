@@ -42,6 +42,7 @@ with open('metallica_data.txt') as f:
 				else:
 					concerts[city] = [concert.Concert(date, city, venue, link, setlist)]
 					
+					# This was used to get the coordinates for each city
 					"""# Get coordiantes from geopy
 					while(1): 
 						try:
@@ -69,8 +70,5 @@ with open('coordinates.txt') as f:
 		city = colonSplit[0]
 		coordSplit = colonSplit[1].split(" ")
 		coordinates[city] = (float(coordSplit[0].strip()), (coordSplit[1].strip()))
-
-for value in concerts["Hamburg, West Germany"]:
-	print(value.setlist);
 
 
