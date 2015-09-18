@@ -48,11 +48,12 @@
 
 			var map;
 			var defaultResultsVisible = true;
+			var initialCityShown = null;
 
 			function initMap() {
 			  map = new google.maps.Map(document.getElementById('map'), {
-			    center: {lat: 40.4333, lng: 3.7000},
-			    zoom: 2
+			    center: {lat: 37.7792768, lng: -122.4192704},
+			    zoom: 9
 			  });
 
 			  var counter = 0;
@@ -168,12 +169,16 @@
 							$(showClicked).css("background", "#000000");
 							showClicked = this;
 						});
+
+						// Store the marker if its the initial city we want presented
+						// to the user on screen load
 			  		}
-			  	})(marker, counter));		 
+			  	})(marker, counter));
+			  				  	// Trigger this marker to show the user shows and setlist on 
+				//google.maps.event.trigger(initialCityShown, 'click');	 
 			  {% endfor %}
+
 			}
-
-
     	</script>
     	<p id="instructions">Click on a marker to view the shows Metallica has played in that city</p>
       </div>
