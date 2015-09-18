@@ -48,7 +48,6 @@
         <script type="text/javascript">
 
 			var map;
-			var defaultResultsVisible = true;
 			var initialCityShown = null;
 
 			function initMap() {
@@ -77,11 +76,6 @@
 			  google.maps.event.addListener(marker, 'click', 
 			  	(function(marker, counter) {
 			  		return function() {
-
-			  			// Check if the default results message is being displayed
-			  			if(defaultResultsVisible) {
-			  				$("#defaultResults").remove();
-			  			}
 
 			  			var cityName = marker.getTitle();
 
@@ -196,11 +190,6 @@
 
     <div class="container">
       <!-- Example row of columns -->
-      <div class="row">
-      	<div class="col-md-12">
-      		<p id="defaultResults">Results will be displayed here</p>
-      	</div>
-      </div>
       <div class="row">
       	<div class="col-md-12">
       		<h1><span id="historyTitleCity"></span></h1>

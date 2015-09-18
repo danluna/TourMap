@@ -22,16 +22,11 @@ def tour_spider(max_year):
 				fw.write(date_set.contents[1].string + '\n')
 				fw.write(date_set.contents[3].a.string + '\n')
 				fw.write(date_set.contents[5].string + '\n')
-
-				print(date_set.contents[1].string)
-				print(date_set.contents[3].a.string)
-				print(date_set.contents[5].string)
 				a_tag = date_set.contents[7].a
 
 				try:
 					# Go to the setlist page and get the songs
 					fw.write(a_tag.get('href') + '\n')
-					print(a_tag.get('href'))
 					setlist_url = a_tag.get('href')
 					source_code = requests.get(setlist_url)
 					plain_text = source_code.text
@@ -58,17 +53,17 @@ def tour_spider(max_year):
 					
 
 				except AttributeError:
-					# Need to extract link for this page, need to find where it is in the html?
-					print("N/A")
+					# Get the link fromt he <a> tag and href attribute since there is no setlist link
+					setlist_url = date_set.contents[3].a.get('href')
 					print(setlist_url)
-					fw.write(setlist_url)
+					fw.write(setlist_url.strip())
 					fw.write('\n')
 
 
 				fw.write('\n')
 
 		except AttributeError:
-			print("No tour dates this year")
+			# No tour dates this given year
 		
 		# Check for more pages for this year
 		liTags = soup.find(attrs={'class': 'next_page'})
@@ -81,5 +76,5 @@ def tour_spider(max_year):
 	# End of spider, close file write
 	fw.close()
 
-
+// Start the crawler
 tour_spider(2015)

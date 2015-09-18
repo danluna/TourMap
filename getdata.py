@@ -46,21 +46,6 @@ with open('metallica_data.txt') as f:
 		if lineType != 5:
 			lineType += 1
 
-"""flee =  open('coordinates.txt', 'w')
-
-for c in concerts:
-	while(1): 
-		try:
-			location = geolocator.geocode(c)
-			break
-		except GeocoderTimedOut as e:
-			print("geocode failed")
-
-	print("writing " + c)
-	flee.write(c + ": " + str(location.latitude) + " " + str(location.longitude) + '\n')
-
-flee.close()"""
-
 # Store the coordinates into the coordinates dictionary
 with open('coordinates.txt') as f:
 	for line in f:
@@ -68,6 +53,5 @@ with open('coordinates.txt') as f:
 		city = colonSplit[0]
 		coordSplit = colonSplit[1].split(" ")
 		coordinates[city] = (float(coordSplit[0].strip()), float(coordSplit[1].strip()))
-		print(city + ": %.2f  %.2f" % (coordinates[city][0], coordinates[city][1]))
 
 

@@ -66,7 +66,7 @@ Metal Militia
 5/28/1982
 Costa Mesa, CA
 The Concert Factory
-http://www.metallica.com/tour/may-25-1982-costa-mesa.asp
+http://www.metallica.com/tour/may-28-1982-costa-mesa.asp
 
 6/5/1982
 Anaheim, CA
@@ -482,22 +482,22 @@ Whiplash
 5/1/1983
 Pasadena, MD
 The Sand Bar
-http://www.metallica.com/tour/apr-24-1983-staten-island.asp
+http://www.metallica.com/tour/may-1-1983-pasadena.asp
 
 5/7/1983
-Sayville, NY
+Sayreville, NY
 Willy's
-http://www.metallica.com/tour/apr-24-1983-staten-island.asp
+http://www.metallica.com/tour/may-7-1983-sayreville.asp
 
 7/27/1983
 New Brunswick, NJ
 Royal Manor
-http://www.metallica.com/tour/apr-24-1983-staten-island.asp
+http://www.metallica.com/tour/jul-27-1983-new-brunswick.asp
 
 7/28/1983
 Bridgeport, CT
 Utopia
-http://www.metallica.com/tour/apr-24-1983-staten-island.asp
+http://www.metallica.com/tour/jul-28-1983-bridgeport.asp
 
 7/29/1983
 Yonkers, NY
@@ -518,17 +518,17 @@ Metal Militia
 7/30/1983
 Boston, MA
 The Rat
-http://www.metallica.com/tour/jul-29-1983-yonkers.asp
+http://www.metallica.com/tour/jul-30-1983-boston.asp
 
 7/31/1983
 Boston, MA
 The Rat
-http://www.metallica.com/tour/jul-29-1983-yonkers.asp
+http://www.metallica.com/tour/jul-31-1983-boston.asp
 
 8/2/1983
 Jamestown, NY
 Melody Inn
-http://www.metallica.com/tour/jul-29-1983-yonkers.asp
+http://www.metallica.com/tour/aug-2-1983-jamestown.asp
 
 8/3/1983
 Buffalo, NY
@@ -549,7 +549,7 @@ Motorbreath
 8/4/1983
 Rochester, NY
 Riverboat
-http://www.metallica.com/tour/aug-3-1983-buffalo.asp
+http://www.metallica.com/tour/aug-4-1983-rochester.asp
 
 8/5/1983
 Elmhurst, NY
@@ -586,12 +586,12 @@ Motorbreath
 8/7/1983
 Long Island, NY
 Cheers
-http://www.metallica.com/tour/aug-6-1983-brooklyn.asp
+http://www.metallica.com/tour/aug-7-1983-long-island.asp
 
 8/8/1983
 Morganville, NJ
 Sports 9 Skateway
-http://www.metallica.com/tour/aug-6-1983-brooklyn.asp
+http://www.metallica.com/tour/aug-8-1983-morganville.asp
 
 8/9/1983
 Baltimore, MD
@@ -638,57 +638,57 @@ Metal Militia
 8/13/1983
 Milwaukee, WI
 Mickey's
-http://www.metallica.com/tour/aug-12-1983-chicago.asp
+http://www.metallica.com/tour/aug-13-1983-milwaukee.asp
 
 8/16/1983
 Bald Knob, AR
 Bald Knob Ampitheatre
-http://www.metallica.com/tour/aug-12-1983-chicago.asp
+http://www.metallica.com/tour/aug-16-1983-bald-knob.asp
 
 8/17/1983
 Pine Bluff, AR
 Pine Bluff Convention Center
-http://www.metallica.com/tour/aug-12-1983-chicago.asp
+http://www.metallica.com/tour/aug-17-1983-pine-bluff.asp
 
 8/18/1983
 Russellville, AR
 Tucker Coliseum
-http://www.metallica.com/tour/aug-12-1983-chicago.asp
+http://www.metallica.com/tour/aug-18-1983-russellville.asp
 
 8/19/1983
 Texarkana, TX
 Texarkana Community College
-http://www.metallica.com/tour/aug-12-1983-chicago.asp
+http://www.metallica.com/tour/aug-19-1983-texarkana.asp
 
 8/20/1983
 Roland, OK
 Harry's
-http://www.metallica.com/tour/aug-12-1983-chicago.asp
+http://www.metallica.com/tour/aug-20-1983-roland.asp
 
 8/22/1983
 Tyler, TX
 Harvey Hall
-http://www.metallica.com/tour/aug-12-1983-chicago.asp
+http://www.metallica.com/tour/aug-22-1983-tyler.asp
 
 8/24/1983
 Austin, TX
 The Nightlife
-http://www.metallica.com/tour/aug-12-1983-chicago.asp
+http://www.metallica.com/tour/aug-24-1983-austin.asp
 
 8/25/1983
 San Antonio, TX
 Daddy's
-http://www.metallica.com/tour/aug-12-1983-chicago.asp
+http://www.metallica.com/tour/aug-25-1983-san-antonio.asp
 
 8/26/1983
 Odessa, TX
 Unknown Venue
-http://www.metallica.com/tour/aug-12-1983-chicago.asp
+http://www.metallica.com/tour/aug-26-1983-odessa.asp
 
 8/27/1983
 Portales, NM
 Eastern New Mexico University
-http://www.metallica.com/tour/aug-12-1983-chicago.asp
+http://www.metallica.com/tour/aug-27-1983-portales.asp
 
 8/28/1983
 Las Cruces, NM
@@ -709,7 +709,7 @@ Motorbreath
 8/29/1983
 Los Angeles, CA
 Perkins Place
-http://www.metallica.com/tour/aug-28-1983-las-cruces.asp
+http://www.metallica.com/tour_date_detail.asp?performance=158C9607240C4C7BA7613A764BDBBF11
 
 8/30/1983
 Reseda, CA
@@ -762,12 +762,12 @@ Metal Militia
 9/3/1983
 San Francisco, CA
 The Stone
-http://www.metallica.com/tour/sep-2-1983-berkeley.asp
+http://www.metallica.com/tour/sep-3-1983-san-francisco.asp
 
 10/31/1983
 Palo Alto, CA
 Keystone
-http://www.metallica.com/tour/sep-2-1983-berkeley.asp
+http://www.metallica.com/tour/oct-31-1983-palo-alto.asp
 
 11/4/1983
 Reseda, CA
@@ -806,17 +806,17 @@ Metal Militia
 11/17/1983
 Portland, OR
 Starry Night
-http://www.metallica.com/tour/nov-7-1983-san-francisco.asp
+http://www.metallica.com/tour_date_detail.asp?performance=995C60CEC58E429481D96A7A7DDA6DA9
 
 11/18/1983
 Bellevue, WA
 Lake Hills Arena
-http://www.metallica.com/tour/nov-7-1983-san-francisco.asp
+http://www.metallica.com/tour_date_detail.asp?performance=ECF77F82344443A2A0C750A32EF981ED
 
 11/24/1983
 Palo Alto, CA
 Keystone
-http://www.metallica.com/tour/nov-7-1983-san-francisco.asp
+http://www.metallica.com/tour/nov-24-1983-palo-alto.asp
 
 11/25/1983
 Berkeley, CA
@@ -859,7 +859,7 @@ Metal Militia
 12/14/1983
 Madison, WI
 The Palms
-http://www.metallica.com/tour/nov-26-1983-san-francisco.asp
+http://www.metallica.com/tour/dec-14-1983-madison.asp
 
 12/15/1983
 Chicago, IL
@@ -947,22 +947,22 @@ Metal Militia
 1/7/1984
 Port Jervis, NY
 The State Theater
-http://www.metallica.com/tour/dec-31-1983-mount-vernon.asp
+http://www.metallica.com/tour/jan-07-1984-port-jervis.asp
 
 1/11/1984
 Rochester, NY
 Riverboat
-http://www.metallica.com/tour/dec-31-1983-mount-vernon.asp
+http://www.metallica.com/tour_date_detail.asp?performance=2CCD2EC737284505A13092B3EADCA72C
 
 1/15/1984
 South River, NJ
 Union Jack
-http://www.metallica.com/tour/dec-31-1983-mount-vernon.asp
+http://www.metallica.com/tour_date_detail.asp?performance=FA88A9907F1541AA95D740DF39467A31
 
 1/20/1984
 Middletown, NY
 J. Bee's Rock III
-http://www.metallica.com/tour/dec-31-1983-mount-vernon.asp
+http://www.metallica.com/tour/jan-20-1984-middletown.asp
 
 1/21/1984
 Valley Stream, NY
@@ -1248,7 +1248,7 @@ Metal Militia
 11/16/1984
 Rouen, France
 Exo 7
-http://www.metallica.com/tour/aug-29-1984-paris.asp
+http://www.metallica.com/tour/nov-16-1984-rouen.asp
 
 11/17/1984
 Poperinge, Belgium
@@ -1628,7 +1628,7 @@ Motorbreath
 12/14/1984
 Lieto, Finland
 Travashovi
-http://www.metallica.com/tour/dec-12-1984-stockholm.asp
+http://www.metallica.com/tour/dec-14-1984-lieto.asp
 
 12/15/1984
 Nivala, Finland
@@ -1691,7 +1691,7 @@ Metal Militia
 1/10/1985
 Scotia, NY
 Skyway Club
-http://www.metallica.com/tour/dec-20-1984-london.asp
+http://www.metallica.com/tour_date_detail.asp?performance=AEAD55A7D49341D09424FB009582C116
 
 1/11/1985
 Hartford, CT
@@ -1841,12 +1841,12 @@ Motorbreath
 1/22/1985
 Scranton, PA
 West Side Theatre
-http://www.metallica.com/tour/jan-20-1985-buffalo.asp
+http://www.metallica.com/tour/jan-22-1985-scranton.asp
 
 1/23/1985
 Poughkeepsie, NY
 Mid-Hudson Civic Center
-http://www.metallica.com/tour/jan-20-1985-buffalo.asp
+http://www.metallica.com/tour/jan-23-1985-poughkeepsie.asp
 
 1/25/1985
 Brooklyn, NY
@@ -1979,7 +1979,7 @@ Motorbreath
 2/3/1985
 Kalamazoo, MI
 State Theatre
-http://www.metallica.com/tour/feb-1-1985-detroit.asp
+http://www.metallica.com/tour/feb-3-1985-kalamazoo.asp
 
 2/5/1985
 Madison, WI
@@ -2037,7 +2037,7 @@ Metal Militia
 2/8/1985
 Milwaukee, WI
 Eagles Ballroom
-http://www.metallica.com/tour/feb-7-1985-cleveland.asp
+http://www.metallica.com/tour/feb-8-1985-milwaukee.asp
 
 2/9/1985
 Chicago, IL
@@ -2061,72 +2061,72 @@ Motorbreath
 2/10/1985
 Green Bay, WI
 Carlton West
-http://www.metallica.com/tour/feb-9-1985-chicago.asp
+http://www.metallica.com/tour/feb-10-1985-green-bay.asp
 
 2/13/1985
 Cedar Rapids, IA
 Veterans Memorial Coliseum
-http://www.metallica.com/tour/feb-9-1985-chicago.asp
+http://www.metallica.com/tour/feb-13-1985-cedar-rapids.asp
 
 2/14/1985
 Burlington, IA
 Burlington Memorial Auditorium
-http://www.metallica.com/tour/feb-9-1985-chicago.asp
+http://www.metallica.com/tour/feb-14-1985-burlington.asp
 
 2/15/1985
 St. Louis, MO
 Reflections
-http://www.metallica.com/tour/feb-9-1985-chicago.asp
+http://www.metallica.com/tour/feb-15-1985-st.-louis.asp
 
 2/16/1985
 Kansas City, MO
 Uptown Theater
-http://www.metallica.com/tour/feb-9-1985-chicago.asp
+http://www.metallica.com/tour/feb-16-1985-kansas-city.asp
 
 2/17/1985
 Wichita, KS
 Cotillion
-http://www.metallica.com/tour/feb-9-1985-chicago.asp
+http://www.metallica.com/tour/feb-17-1985-wichita.asp
 
 2/20/1985
 Tulsa, OK
 Cain's Ballroom
-http://www.metallica.com/tour/feb-9-1985-chicago.asp
+http://www.metallica.com/tour/feb-20-1985-tulsa.asp
 
 2/21/1985
 Austin, TX
 City Coliseum
-http://www.metallica.com/tour/feb-9-1985-chicago.asp
+http://www.metallica.com/tour/feb-21-1985-austin.asp
 
 2/22/1985
 Corpus Christi, TX
 Ritz Music Hall
-http://www.metallica.com/tour/feb-9-1985-chicago.asp
+http://www.metallica.com/tour/feb-22-1985-corpus-christi.asp
 
 2/25/1985
 San Antonio, TX
 Cameo Theater
-http://www.metallica.com/tour/feb-9-1985-chicago.asp
+http://www.metallica.com/tour/feb-25-1985-san-antonio.asp
 
 2/26/1985
 Houston, TX
 Cardi's
-http://www.metallica.com/tour/feb-9-1985-chicago.asp
+http://www.metallica.com/tour/feb-26-1985-pasadena.asp
 
 2/27/1985
 Dallas, TX
 Arcadia
-http://www.metallica.com/tour/feb-9-1985-chicago.asp
+http://www.metallica.com/tour/feb-27-1985-dallas.asp
 
 2/28/1985
 Houston, TX
 Cardi's
-http://www.metallica.com/tour/feb-9-1985-chicago.asp
+http://www.metallica.com/tour/feb-28-1985-houston.asp
 
 3/2/1985
 El Paso, TX
 The Big Apple Night Club
-http://www.metallica.com/tour/feb-9-1985-chicago.asp
+http://www.metallica.com/tour/mar-2-1985-el-paso.asp
 
 3/3/1985
 Albuquerque, NM
@@ -2150,17 +2150,17 @@ Motorbreath
 3/4/1985
 Colorado Springs, CO
 DJ's
-http://www.metallica.com/tour/mar-3-1985-albuquerque.asp
+http://www.metallica.com/tour/mar-4-1985-colorado-springs.asp
 
 3/5/1985
 Denver, CO
 Rainbow Music Hall
-http://www.metallica.com/tour/mar-3-1985-albuquerque.asp
+http://www.metallica.com/tour/mar-5-1985-denver.asp
 
 3/6/1985
 Phoenix, AZ
 State Theatre
-http://www.metallica.com/tour/mar-3-1985-albuquerque.asp
+http://www.metallica.com/tour/mar-6-1985-phoenix.asp
 
 3/9/1985
 San Diego, CA
@@ -2200,12 +2200,12 @@ Motorbreath
 3/11/1985
 Phoenix, AZ
 Palace West
-http://www.metallica.com/tour/mar-10-1985-los-angeles.asp
+http://www.metallica.com/tour_date_detail.asp?performance=D1701EC0D75040F9A4663F269994384E
 
 3/13/1985
 Palo Alto, CA
 Keystone
-http://www.metallica.com/tour/mar-10-1985-los-angeles.asp
+http://www.metallica.com/tour/mar-13-1985-palo-alto.asp
 
 3/14/1985
 San Francisco, CA
@@ -2301,7 +2301,7 @@ Creeping Death
 8/13/1985
 Birmingham, England
 Unknown Venue
-http://www.metallica.com/tour/mar-19-1985-portland.asp
+http://www.metallica.com/tour/aug-13-1985-birmingham.asp
 
 8/17/1985
 Castle Donington, England
@@ -2528,7 +2528,7 @@ Am I Evil?
 Damage, Inc.
 
 4/10/1986
-Erie, PA
+Erie, PN
 Civic Center
 http://www.metallica.com/tour/apr-10-1986-erie.asp
 Battery
@@ -2907,7 +2907,7 @@ Damage, Inc.
 5/23/1986
 Tulsa, OK
 Cain's Ballroom
-http://www.metallica.com/tour/may-20-1986-phoenix.asp
+http://www.metallica.com/tour/may-23-1986-tulsa.asp
 
 5/24/1986
 Cape Girardeau, MO
@@ -2980,7 +2980,7 @@ Whiplash
 5/29/1986
 Eau Claire, WI
 Old Mill Expo Center
-http://www.metallica.com/tour/may-28-1986-minneapolis.asp
+http://www.metallica.com/tour/may-29-1986-eau-claire.asp
 
 5/30/1986
 Davenport, IA
@@ -3003,37 +3003,37 @@ Motorbreath
 5/31/1986
 Decatur, IL
 Civic Arena
-http://www.metallica.com/tour/may-30-1986-davenport.asp
+http://www.metallica.com/tour/may-31-1986-decatur.asp
 
 6/1/1986
 Omaha, NE
 Peony Park
-http://www.metallica.com/tour/may-30-1986-davenport.asp
+http://www.metallica.com/tour/jun-1-1986-omaha.asp
 
 6/3/1986
 Dallas, TX
 Bronco Bowl
-http://www.metallica.com/tour/may-30-1986-davenport.asp
+http://www.metallica.com/tour/jun-3-1986-dallas.asp
 
 6/4/1986
 Corpus Christi, TX
 Memorial Coliseum
-http://www.metallica.com/tour/may-30-1986-davenport.asp
+http://www.metallica.com/tour/jun-4-1986-corpus-christi.asp
 
 6/5/1986
 McAllen, TX
 La Villa Real Convention Center
-http://www.metallica.com/tour/may-30-1986-davenport.asp
+http://www.metallica.com/tour/jun-5-1986-mcallen.asp
 
 6/6/1986
 San Antonio, TX
 Majestic Theatre
-http://www.metallica.com/tour/may-30-1986-davenport.asp
+http://www.metallica.com/tour/jun-6-1986-san-antonio.asp
 
 6/7/1986
 Odessa, TX
 Ector County Coliseum
-http://www.metallica.com/tour/may-30-1986-davenport.asp
+http://www.metallica.com/tour/jun-7-1986-odessa.asp
 
 6/10/1986
 San Diego, CA
@@ -3052,7 +3052,7 @@ Damage, Inc.
 6/11/1986
 Las Vegas, NV
 Thomas & Mack Center
-http://www.metallica.com/tour/jun-10-1986-san-diego.asp
+http://www.metallica.com/tour/jun-11-1986-las-vegas.asp
 
 6/13/1986
 Long Beach, CA
@@ -3113,15 +3113,15 @@ Damage, Inc.
 6/18/1986
 Sacramento, CA
 Cal Expo Amp
-http://www.metallica.com/tour/jun-17-1986-san-francisco.asp
+http://www.metallica.com/tour/jun-18-1986-sacramento.asp
 
 6/22/1986
 Seattle, WA
 Coliseum
-http://www.metallica.com/tour/jun-17-1986-san-francisco.asp
+http://www.metallica.com/tour/jun-22-1986-seattle.asp
 
 7/5/1986
-Jyvaskyla, Finland
+Jyvvskyll, Finland
 Saapasjalka
 http://www.metallica.com/tour/jul-5-1986-jyvaskyla.asp
 Battery
@@ -3156,12 +3156,12 @@ Whiplash
 7/8/1986
 Cedar Rapids, IA
 Five Seasons Center
-http://www.metallica.com/tour/jul-6-1986-roskilde.asp
+http://www.metallica.com/tour_date_detail.asp?performance=8354C36FC6FB48B3B6146E356924AB72
 
 7/11/1986
 Green Bay, WI
 Brown County Veterans Memorial Arena
-http://www.metallica.com/tour/jul-6-1986-roskilde.asp
+http://www.metallica.com/tour/jul-11-1986-green-bay.asp
 
 7/12/1986
 East Troy, WI
@@ -3194,7 +3194,7 @@ Damage, Inc.
 7/15/1986
 Peoria, IL
 Peoria Civic Center
-http://www.metallica.com/tour/jul-13-1986-hoffmann-estates.asp
+http://www.metallica.com/tour/jul-15-1986-peoria.asp
 
 7/16/1986
 Fort Wayne, IN
@@ -3213,17 +3213,17 @@ Damage, Inc.
 7/17/1986
 Columbus, OH
 Columbus Center
-http://www.metallica.com/tour/jul-16-1986-fort-wayne.asp
+http://www.metallica.com/tour/jul-17-1986-columbus.asp
 
 7/19/1986
 Battle Creek, MI
 Kellogg Arena
-http://www.metallica.com/tour/jul-16-1986-fort-wayne.asp
+http://www.metallica.com/tour/jul-19-1986-battle-creek.asp
 
 7/20/1986
 Saginaw, MI
 Wendler Arena
-http://www.metallica.com/tour/jul-16-1986-fort-wayne.asp
+http://www.metallica.com/tour/jul-20-1986-saginaw.asp
 
 7/21/1986
 Detroit, MI
@@ -3242,17 +3242,17 @@ Damage, Inc.
 7/24/1986
 Cincinnati, OH
 Riverbend Music Center
-http://www.metallica.com/tour/jul-21-1986-clarkston.asp
+http://www.metallica.com/tour/jul-24-1986-cincinnati.asp
 
 7/25/1986
 Louisville, KY
 Kentucky Fairgrounds Stadium
-http://www.metallica.com/tour/jul-21-1986-clarkston.asp
+http://www.metallica.com/tour/jul-25-1986-louisville.asp
 
 7/27/1986
 Nashville, TN
 Nashville Muncipal Auditorium
-http://www.metallica.com/tour/jul-21-1986-clarkston.asp
+http://www.metallica.com/tour/jul-27-1986-nashville.asp
 
 7/29/1986
 Chattanooga, TN
@@ -3730,7 +3730,7 @@ Damage, Inc.
 11/26/1986
 Providence, RI
 Veterans Memorial Auditorium
-http://www.metallica.com/tour/nov-20-1986-tokyo.asp
+http://www.metallica.com/tour_date_detail.asp?performance=2FE1407D4C03466885268BC44202D96D
 
 11/28/1986
 Poughkeepsie, NY
@@ -4106,12 +4106,12 @@ Blitzkrieg
 12/21/1986
 Spokane, WA
 ?
-http://www.metallica.com/tour/dec-20-1986-seattle.asp
+http://www.metallica.com/tour/dec-21-1986-spokane.asp
 
 12/22/1986
 Portland, OR
 ?
-http://www.metallica.com/tour/dec-20-1986-seattle.asp
+http://www.metallica.com/tour/dec-22-1986-portland.asp
 
 1/8/1987
 Copenhagen, Denmark
@@ -5608,7 +5608,7 @@ Whiplash
 10/4/1988
 Dublin, Ireland
 Top Hat
-http://www.metallica.com/tour/oct-3-1988-dublin.asp
+http://www.metallica.com/tour/oct-4-1988-dublin.asp
 
 10/6/1988
 Newcastle, England
@@ -6716,12 +6716,12 @@ Whiplash
 1/13/1989
 Memphis, TN
 Mid-South Coliseum
-http://www.metallica.com/tour/jan-11-1989-knoxville.asp
+http://www.metallica.com/tour/jan-13-1989-memphis.asp
 
 1/14/1989
 Birmingham, AL
 Birmingham-Jefferson Civic Coliseum
-http://www.metallica.com/tour/jan-11-1989-knoxville.asp
+http://www.metallica.com/tour/jan-14-1989-birmingham.asp
 
 1/15/1989
 New Orleans, LA
@@ -6749,7 +6749,7 @@ Whiplash
 1/17/1989
 Waco, TX
 Heart O' Texas Coliseum
-http://www.metallica.com/tour/jan-15-1989-new-orleans.asp
+http://www.metallica.com/tour/jan-17-1989-waco.asp
 
 1/18/1989
 Odessa, TX
@@ -6800,7 +6800,7 @@ Whiplash
 1/21/1989
 El Paso, TX
 UTEP Special Events Center
-http://www.metallica.com/tour/jan-20-1989-lubbock.asp
+http://www.metallica.com/tour/jan-21-1989-el-paso.asp
 
 1/22/1989
 Amarillo, TX
@@ -6827,17 +6827,17 @@ Whiplash
 1/24/1989
 Beaumont, TX
 Beaumont Civic Center
-http://www.metallica.com/tour/jan-22-1989-amarillo.asp
+http://www.metallica.com/tour/jan-24-1989-beaumont.asp
 
 1/25/1989
 Corpus Christi, TX
 Memorial Coliseum
-http://www.metallica.com/tour/jan-22-1989-amarillo.asp
+http://www.metallica.com/tour/jan-25-1989-corpus-christi.asp
 
 1/27/1989
 Shreveport, LA
 Hirsch Memorial Coliseum
-http://www.metallica.com/tour/jan-22-1989-amarillo.asp
+http://www.metallica.com/tour/jan-27-1989-shreveport.asp
 
 1/28/1989
 Tulsa, OK
@@ -6866,7 +6866,7 @@ Breadfan
 1/31/1989
 Abilene, TX
 Civic Center
-http://www.metallica.com/tour/jan-28-1989-tulsa.asp
+http://www.metallica.com/tour/jan-31-1989-abilene.asp
 
 2/1/1989
 San Antonio, TX
@@ -6917,7 +6917,7 @@ Whiplash
 2/4/1989
 Houston, TX
 Sam Houston Coliseum
-http://www.metallica.com/tour/feb-3-1989-austin.asp
+http://www.metallica.com/tour/feb-4-1989-houston.asp
 
 2/5/1989
 Dallas, TX
@@ -6967,7 +6967,7 @@ Whiplash
 2/8/1989
 Huntsville, AL
 Von Braun Civic Center
-http://www.metallica.com/tour/feb-7-1989-little-rock.asp
+http://www.metallica.com/tour/feb-8-1989-huntsville.asp
 
 2/10/1989
 Lakeland, FL
@@ -7110,7 +7110,7 @@ Whiplash
 2/18/1989
 Atlanta, GA
 The Omni
-http://www.metallica.com/tour/feb-17-1989-jacksonville.asp
+http://www.metallica.com/tour/feb-18-1989-atlanta.asp
 
 2/19/1989
 Greensboro, NC
@@ -7138,7 +7138,7 @@ Breadfan
 2/25/1989
 Fayetteville, NC
 Cumberland County Civic Center
-http://www.metallica.com/tour/feb-19-1989-greensboro.asp
+http://www.metallica.com/tour/feb-25-1989-fayetteville.asp
 
 2/26/1989
 Charlotte, NC
@@ -7533,7 +7533,7 @@ Breadfan
 3/30/1989
 Portland, ME
 Cumberland County Civic Center
-http://www.metallica.com/tour/mar-29-1989-providence.asp
+http://www.metallica.com/tour/mar-30-1989-portland.asp
 
 4/1/1989
 Moncton, Canada
@@ -7560,7 +7560,7 @@ Whiplash
 4/3/1989
 Sydney, Canada
 Centre 200
-http://www.metallica.com/tour/apr-1-1989-moncton.asp
+http://www.metallica.com/tour/apr-3-1989-sydney.asp
 
 4/4/1989
 Halifax, Canada
@@ -7743,7 +7743,7 @@ Whiplash
 4/15/1989
 Saginaw, MI
 Wendler Arena
-http://www.metallica.com/tour/apr-14-1989-battle-creek.asp
+http://www.metallica.com/tour/apr-15-1989-saginaw.asp
 
 4/16/1989
 Dayton, OH
@@ -7815,7 +7815,7 @@ Whiplash
 4/20/1989
 La Crosse, WI
 La Crosse Center
-http://www.metallica.com/tour/apr-19-1989-green-bay.asp
+http://www.metallica.com/tour/apr-20-1989-la-crosse.asp
 
 4/21/1989
 Minneapolis, MN
@@ -8093,7 +8093,7 @@ Whiplash
 5/27/1989
 Anchorage, AK
 Sullivan Arena
-http://www.metallica.com/tour/may-24-1989-honolulu.asp
+http://www.metallica.com/tour/may-27-1989-anchorage.asp
 
 5/31/1989
 Vancouver, Canada
@@ -8121,12 +8121,12 @@ Breadfan
 6/2/1989
 Edmonton, Canada
 Northlands Coliseum
-http://www.metallica.com/tour/may-31-1989-vancouver.asp
+http://www.metallica.com/tour/jun-2-1989-edmonton.asp
 
 6/3/1989
 Calgary, Canada
 Olympic Saddledome
-http://www.metallica.com/tour/may-31-1989-vancouver.asp
+http://www.metallica.com/tour/jun-3-1989-calgary.asp
 
 6/4/1989
 Saskatoon, Canada
@@ -8175,7 +8175,7 @@ Whiplash
 6/7/1989
 Minot, ND
 Minot Municipal Auditorium
-http://www.metallica.com/tour/jun-6-1989-winnipeg.asp
+http://www.metallica.com/tour/jun-7-1989-minot.asp
 
 6/8/1989
 Duluth, MN
@@ -8247,32 +8247,32 @@ Whiplash
 6/13/1989
 Sioux Falls, SD
 Sioux Falls Arena
-http://www.metallica.com/tour/jun-11-1989-ames.asp
+http://www.metallica.com/tour/jun-13-1989-sioux-falls.asp
 
 6/14/1989
 Omaha, NE
 Omaha Civic Auditorium
-http://www.metallica.com/tour/jun-11-1989-ames.asp
+http://www.metallica.com/tour/jun-14-1989-omaha.asp
 
 6/16/1989
 Rapid City, SD
 Rushmore Plaza Civic Center
-http://www.metallica.com/tour/jun-11-1989-ames.asp
+http://www.metallica.com/tour/jun-16-1989-rapid-city.asp
 
 6/17/1989
 Bismarck, ND
 Bismarck Civic Center
-http://www.metallica.com/tour/jun-11-1989-ames.asp
+http://www.metallica.com/tour/jun-17-1989-bismarck.asp
 
 6/18/1989
 Grand Forks, ND
 Hyslop Sports Center
-http://www.metallica.com/tour/jun-11-1989-ames.asp
+http://www.metallica.com/tour/jun-18-1989-grand-forks.asp
 
 6/20/1989
 Cedar Rapids, IA
 Five Seasons Center
-http://www.metallica.com/tour/jun-11-1989-ames.asp
+http://www.metallica.com/tour/jun-20-1989-cedar-rapids.asp
 
 6/21/1989
 Kansas City, KS
@@ -8301,7 +8301,7 @@ Breadfan
 6/22/1989
 Springfield, IL
 Prairie Capitol Convention Center
-http://www.metallica.com/tour/jun-21-1989-bonner-springs.asp
+http://www.metallica.com/tour/jun-22-1989-springfield.asp
 
 6/24/1989
 East Troy, WI
@@ -8354,12 +8354,12 @@ Whiplash
 6/27/1989
 Evansville, IN
 Roberts Stadium
-http://www.metallica.com/tour/jun-25-1989-fort-wayne.asp
+http://www.metallica.com/tour/jun-27-1989-evansville.asp
 
 6/28/1989
 Louisville, KY
 Louisville Gardens
-http://www.metallica.com/tour/jun-25-1989-fort-wayne.asp
+http://www.metallica.com/tour/jun-28-1989-louisville.asp
 
 6/29/1989
 Indianapolis, IN
@@ -8387,7 +8387,7 @@ Whiplash
 7/1/1989
 Mears, MI
 Val du Lakes Amphitheatre
-http://www.metallica.com/tour/jun-29-1989-noblesville.asp
+http://www.metallica.com/tour/jul-1-1989-mears.asp
 
 7/3/1989
 Detroit, MI
@@ -8512,7 +8512,7 @@ Breadfan
 7/9/1989
 Charleston, WV
 Charleston Civic Center
-http://www.metallica.com/tour/jul-8-1989-cleveland.asp
+http://www.metallica.com/tour/jul-9-1989-charleston.asp
 
 7/11/1989
 Pittsburgh, PA
@@ -8541,7 +8541,7 @@ Breadfan
 7/12/1989
 Harrisburg, PA
 City Island
-http://www.metallica.com/tour/jul-11-1989-pittsburgh.asp
+http://www.metallica.com/tour/jul-12-1989-harrisburg.asp
 
 7/14/1989
 Middletown, NY
@@ -8759,7 +8759,7 @@ Damage, Inc.
 7/26/1989
 Burlington, VT
 Burlington Memorial Auditorium
-http://www.metallica.com/tour/jul-25-1989-worchester.asp
+http://www.metallica.com/tour/jul-26-1989-burlington.asp
 
 7/28/1989
 Landover, MD
@@ -8852,12 +8852,12 @@ Breadfan
 8/8/1989
 Roanoke, VA
 Roanoke Civic Center
-http://www.metallica.com/tour/aug-7-1989-newark.asp
+http://www.metallica.com/tour/aug-8-1989-roanoke.asp
 
 8/9/1989
 Columbia, SC
 Carolina Coliseum
-http://www.metallica.com/tour/aug-7-1989-newark.asp
+http://www.metallica.com/tour/aug-9-1989-columbia.asp
 
 8/11/1989
 Johnson City, TN
@@ -8905,12 +8905,12 @@ Damage, Inc.
 8/13/1989
 Greenville, SC
 Greenville Memorial Auditorium
-http://www.metallica.com/tour/aug-12-1989-hebron.asp
+http://www.metallica.com/tour/aug-13-1989-greenville.asp
 
 8/15/1989
 Chattanooga, TN
 UTC Arena
-http://www.metallica.com/tour/aug-12-1989-hebron.asp
+http://www.metallica.com/tour/aug-15-1989-chattanooga.asp
 
 8/16/1989
 Nashville, TN
@@ -8937,12 +8937,12 @@ Breadfan
 8/18/1989
 Atlanta, GA
 Lakewood Amphitheatre
-http://www.metallica.com/tour/aug-16-1989-nashville.asp
+http://www.metallica.com/tour/aug-18-1989-atlanta.asp
 
 8/19/1989
 Jackson, MI
 Mississippi Coliseum
-http://www.metallica.com/tour/aug-16-1989-nashville.asp
+http://www.metallica.com/tour/aug-19-1989-jackson.asp
 
 8/20/1989
 Biloxi, MI
@@ -8997,17 +8997,17 @@ http://www.metallica.com/tour/aug-23-1989-dallas.asp
 8/25/1989
 Denver, CO
 Red Rocks Amphitheatre
-http://www.metallica.com/tour/aug-23-1989-dallas.asp
+http://www.metallica.com/tour/aug-25-1989-denver.asp
 
 8/26/1989
 Denver, CO
 Red Rocks Amphitheatre
-http://www.metallica.com/tour/aug-23-1989-dallas.asp
+http://www.metallica.com/tour/aug-26-1989-denver.asp
 
 8/28/1989
 Spokane, WA
 Spokane Coliseum
-http://www.metallica.com/tour/aug-23-1989-dallas.asp
+http://www.metallica.com/tour/aug-28-1989-spokane.asp
 
 8/29/1989
 Seattle, WA
@@ -9060,17 +9060,17 @@ Breadfan
 9/1/1989
 Portland, OR
 Memorial Coliseum
-http://www.metallica.com/tour/aug-30-1989-seattle.asp
+http://www.metallica.com/tour/sep-1-1989-portland.asp
 
 9/3/1989
 Boise, ID
 BSU Pavilion
-http://www.metallica.com/tour/aug-30-1989-seattle.asp
+http://www.metallica.com/tour/sep-3-1989-boise.asp
 
 9/5/1989
 Billings, MT
 MetraPark Arena
-http://www.metallica.com/tour/aug-30-1989-seattle.asp
+http://www.metallica.com/tour/sep-5-1989-billings.asp
 
 9/6/1989
 Casper, WY
@@ -9098,12 +9098,12 @@ Breadfan
 9/8/1989
 Salt Lake City, UT
 Salt Palace
-http://www.metallica.com/tour/sep-6-1989-casper.asp
+http://www.metallica.com/tour/sep-8-1989-salt-lake-city.asp
 
 9/9/1989
 Las Vegas, NV
 Thomas & Mack Center
-http://www.metallica.com/tour/sep-6-1989-casper.asp
+http://www.metallica.com/tour/sep-9-1989-las-vegas.asp
 
 9/10/1989
 Phoenix, AZ
@@ -9132,7 +9132,7 @@ Breadfan
 9/12/1989
 Reno, NV
 Lawlor Events Center
-http://www.metallica.com/tour/sep-10-1989-chandler.asp
+http://www.metallica.com/tour/sep-12-1989-reno.asp
 
 9/14/1989
 Concord, CA
@@ -9209,7 +9209,7 @@ Breadfan
 9/19/1989
 Tucson, AZ
 Tucson Convention Center Arena
-http://www.metallica.com/tour/sep-16-1989-sacramento.asp
+http://www.metallica.com/tour/sep-19-1989-tucson.asp
 
 9/21/1989
 Irvine, CA
@@ -9310,7 +9310,7 @@ Am I Evil?
 Whiplash
 
 10/6/1989
-Sao Paulo, Brazil
+SSo Paulo, Brazil
 Ginasio do Ibirapuera
 http://www.metallica.com/tour/oct-6-1989-sao-paulo.asp
 Blackened
@@ -9332,7 +9332,7 @@ Am I Evil?
 Whiplash
 
 10/7/1989
-Sao Paulo, Brazil
+SSo Paulo, Brazil
 Ginasio do Ibirapuera
 http://www.metallica.com/tour/oct-7-1989-sao-paulo.asp
 Blackened
@@ -9656,7 +9656,7 @@ Am I Evil?
 Battery
 
 8/13/1991
-Chorzow, Poland
+Chorzzw, Poland
 Silesian Stadium
 http://www.metallica.com/tour/aug-13-1991-katowice.asp
 Enter Sandman
@@ -9857,7 +9857,7 @@ Battery
 9/8/1991
 Oldenburg, Germany
 Weser-Ems-Halle
-http://www.metallica.com/tour/sep-7-1991-mainz.asp
+http://www.metallica.com/tour/sep-8-1991-oldenburg.asp
 
 9/11/1991
 Graz, Austria
@@ -11518,17 +11518,17 @@ Battery
 2/6/1992
 Denver, CO
 McNichols Sports Arena
-http://www.metallica.com/tour/feb-4-1992-odessa.asp
+http://www.metallica.com/tour/feb-6-1992-denver.asp
 
 2/7/1992
 Denver, CO
 McNichols Sports Arena
-http://www.metallica.com/tour/feb-4-1992-odessa.asp
+http://www.metallica.com/tour/feb-7-1992-denver.asp
 
 2/8/1992
 Denver, CO
 McNichols Sports Arena
-http://www.metallica.com/tour/feb-4-1992-odessa.asp
+http://www.metallica.com/tour/feb-8-1992-denver.asp
 
 2/10/1992
 Salt Lake City, UT
@@ -12862,7 +12862,7 @@ Battery
 5/18/1992
 Saskatoon, Canada
 Saskatchewan Place
-http://www.metallica.com/tour/may-17-1992-winnipeg.asp
+http://www.metallica.com/tour/may-18-1992-saskatoon.asp
 
 5/19/1992
 Edmonton, Canada
@@ -12894,7 +12894,7 @@ Battery
 5/21/1992
 Calgary, Canada
 Olympic Saddledome
-http://www.metallica.com/tour/may-19-1992-edmonton.asp
+http://www.metallica.com/tour/may-21-1992-calgary.asp
 
 5/23/1992
 Vancouver, Canada
@@ -12927,7 +12927,7 @@ Stone Cold Crazy
 5/25/1992
 Vancouver, Canada
 Pacific Coliseum
-http://www.metallica.com/tour/may-23-1992-vancouver.asp
+http://www.metallica.com/tour/may-25-1992-vancouver.asp
 
 5/27/1992
 Seattle, WA
@@ -14958,7 +14958,7 @@ Stone Cold Crazy
 12/1/1992
 Stuttgart, Germany
 Hanns-Martin-Schleyer-Halle
-http://www.metallica.com/tour/nov-30-1992-mannheim.asp
+http://www.metallica.com/tour/dec-1-1992-stuttgart.asp
 
 12/3/1992
 Kiel, Germany
@@ -15749,7 +15749,7 @@ Battery
 2/25/1993
 Mexico City, Mexico
 Palacio de los Deportes
-http://www.metallica.com/tour/feb-21-1993-tallahassee.asp
+http://www.metallica.com/tour/feb-25-1993-mexico-city.asp
 
 2/26/1993
 Mexico City, Mexico
@@ -15781,7 +15781,7 @@ Battery
 2/27/1993
 Mexico City, Mexico
 Palacio de los Deportes
-http://www.metallica.com/tour/feb-26-1993-mexico-city.asp
+http://www.metallica.com/tour/feb-27-1993-mexico-city.asp
 
 3/1/1993
 Mexico City, Mexico
@@ -15841,17 +15841,17 @@ Stone Cold Crazy
 3/12/1993
 Honolulu, HI
 Neal S. Blaisdell Arena
-http://www.metallica.com/tour/mar-2-1993-mexico-city.asp
+http://www.metallica.com/tour/mar-12-1993-honolulu.asp
 
 3/13/1993
 Honolulu, HI
 Neal S. Blaisdell Arena
-http://www.metallica.com/tour/mar-2-1993-mexico-city.asp
+http://www.metallica.com/tour/mar-13-1993-honolulu.asp
 
 3/16/1993
 Tokyo, Japan
 Yoyogi Olympic Pool
-http://www.metallica.com/tour/mar-2-1993-mexico-city.asp
+http://www.metallica.com/tour/mar-16-1993-tokyo.asp
 
 3/17/1993
 Tokyo, Japan
@@ -16302,7 +16302,7 @@ Enter Sandman
 4/13/1993
 Singapore, Singapore
 Singapore Indoor Stadium
-http://www.metallica.com/tour/apr-11-1993-jakarta.asp
+http://www.metallica.com/tour/apr-13-1993-singapore.asp
 
 4/15/1993
 Bangkok, Thailand
@@ -16358,7 +16358,7 @@ One
 Battery
 
 5/1/1993
-Sao Paulo, Brazil
+SSo Paulo, Brazil
 Estadio Palestra Italia
 http://www.metallica.com/tour/may-1-1993-sao-paulo.asp
 Enter Sandman
@@ -16384,7 +16384,7 @@ One
 Stone Cold Crazy
 
 5/2/1993
-Sao Paulo, Brazil
+SSo Paulo, Brazil
 Estadio Palestra Italia
 http://www.metallica.com/tour/may-2-1993-sao-paulo.asp
 Enter Sandman
@@ -24539,7 +24539,7 @@ Enter Sandman
 Battery
 
 5/8/1999
-Sao Paulo, Brazil
+SSo Paulo, Brazil
 Sambodromo
 http://www.metallica.com/tour/may-8-1999-sao-paulo.asp
 Breadfan
@@ -27040,7 +27040,7 @@ One
 Enter Sandman
 
 8/17/2003
-Grafenhainichen, Germany
+Grrfenhainichen, Germany
 Ferropolis
 http://www.metallica.com/tour/aug-17-2003-grafenhainichen.asp
 Battery
@@ -28741,7 +28741,7 @@ Leper Messiah
 Seek and Destroy
 
 5/31/2004
-Chorzow, Poland
+Chorzzw, Poland
 Slaski Stadium
 http://www.metallica.com/tour/may-31-2004-chorzow.asp
 Blackened
@@ -31156,7 +31156,7 @@ So What
 Seek and Destroy
 
 5/28/2008
-Chorzow, Poland
+Chorzzw, Poland
 Slaski Stadium
 http://www.metallica.com/tour/may-28-2008-chorzow.asp
 Creeping Death
@@ -34563,7 +34563,7 @@ Fight Fire with Fire
 Seek and Destroy
 
 1/24/2010
-Cordoba, Argentina
+CCrdoba, Argentina
 Orfeo Superdomo
 http://www.metallica.com/tour/jan-24-2010-cordoba.asp
 Creeping Death
@@ -34632,7 +34632,7 @@ Phantom Lord
 Seek and Destroy
 
 1/30/2010
-Sao Paulo, Brazil
+SSo Paulo, Brazil
 Morumbi Stadium
 http://www.metallica.com/tour/jan-30-2010-sao-paulo.asp
 Creeping Death
@@ -34655,7 +34655,7 @@ Motorbreath
 Seek and Destroy
 
 1/31/2010
-Sao Paulo, Brazil
+SSo Paulo, Brazil
 Morumbi Stadium
 http://www.metallica.com/tour/jan-31-2010-sao-paulo.asp
 Creeping Death
@@ -37745,7 +37745,7 @@ Hit the Lights (Vote of the Day Song)
 Seek and Destroy
 
 3/22/2014
-Sao Paulo, Brazil
+SSo Paulo, Brazil
 Estadio do Morumbi
 http://www.metallica.com/tour/mar-22-2014-sao-paulo.asp
 Battery
@@ -37768,7 +37768,7 @@ The Day That Never Comes
 Seek and Destroy
 
 3/24/2014
-Asuncion, Paraguay
+Asunciin, Paraguay
 Jockey Club
 http://www.metallica.com/tour/mar-24-2014-asuncion-paraguay.asp
 Battery

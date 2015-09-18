@@ -25,7 +25,6 @@
 .jumbotron {
 	margin-bottom: 0px;
 	padding: 5px;
-	background-image: url("texture.jpg");
 }
 
 .setlistHeader, #setlistText {
@@ -40,16 +39,12 @@ body {
 	font-size: 32px;
 }
 
-#title, .setlistHeader, #instructions, #defaultResults, #titleDescription {
+#title, .setlistHeader, #instructions, #titleDescription {
 	text-align: center;
 }
 
-#instructions, #defaultResults {
+#instructions {
 	font-size: 20px;
-}
-
-.show, #cityConcertInfo {
-
 }
 
 
