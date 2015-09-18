@@ -25,6 +25,7 @@
 .jumbotron {
 	margin-bottom: 0px;
 	padding: 5px;
+	background-image: url("texture.jpg");
 }
 
 .setlistHeader, #setlistText {

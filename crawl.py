@@ -58,6 +58,7 @@ def tour_spider(max_year):
 					
 
 				except AttributeError:
+					# Need to extract link for this page, need to find where it is in the html?
 					print("N/A")
 					print(setlist_url)
 					fw.write(setlist_url)
