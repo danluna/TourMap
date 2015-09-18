@@ -6,7 +6,7 @@
 
 .show {
 	color: white;
-	background-color: black;
+	background-color: #3b3c40;
 	font-size: 16px;
 	font-style: bold;
 }
@@ -17,7 +17,7 @@
 
 #cityConcertInfo {
 	color: white;
-	background-color: black;
+	background-color: #3b3c40;
 	font-size: 16px;
 	visibility: hidden;
 }

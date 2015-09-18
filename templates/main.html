@@ -49,6 +49,8 @@
 
 			var map;
 			var initialCityShown = null;
+			var activeShowColor = "#3b3c40";
+			var unActiveShowColor = "#b2b229";
 
 			function initMap() {
 			  map = new google.maps.Map(document.getElementById('map'), {
@@ -137,12 +139,14 @@
 			  			// Change color of show item when hovering 
 						// mouse over to indicate clicking is an option
 						$(".show").hover(function() {
-						  	$(this).css("background", "#00522f");
+						  	$(this).css("background", "#b2b229");
+						  	$(this).css("color", "black");
 						  	$(this).css("cursor", "pointer");
 						  	hovering = this;
 						}, function() {
 							if(clicked && (showClicked==this)) {
-								$(this).css("background", "#00522f");
+								$(this).css("background", "#b2b229");
+								$(this).css("color", "black");
 								clicked = false;
 							}
 							else {
@@ -150,7 +154,8 @@
 
 								}
 								else {
-									$(this).css("background", "#000000");
+									$(this).css("background", "#3b3c40");
+									$(this).css("color", "white");
 								}
 							}
 						  	
@@ -164,12 +169,16 @@
 						// one will turn black again, assuming the user is checking more than one
 						$(".show").on('click', function() {
 							clicked = true;
-							if(hovering != showClicked) {$(showClicked).css("background", "#000000");}
+							if(hovering != showClicked) {
+								$(showClicked).css("background", "#3b3c40"); 
+								$(showClicked).css("color", "white");
+							}
 							showClicked = this;
 						});
 
 						$("#show1").trigger("click");
-						$("#show1").css("background", "#00522f");
+						$("#show1").css("background", "#b2b229");
+						$("#show1").css("color", "black");
 
 			  		}
 			  	})(marker, counter));
@@ -179,7 +188,8 @@
 			  if(name == "Anaheim, CA") {
 				google.maps.event.trigger(marker, 'click');
 				$("#show1").trigger("click");
-				$("#show1").css("background", "#00522f");	
+				$("#show1").css("background", "#b2b229");
+				$("#show1").css("color", "black");	
 			  } 
 			  {% endfor %} 
 			}
