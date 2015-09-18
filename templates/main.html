@@ -43,6 +43,7 @@
     <div class="jumbotron">
       <div class="container">
       	<div><p id="title">Metallica Tour Map</p></div>
+      	<p id="titleDescription">Metallica's Tour History Visualized On A World Map</p>
       	<div id="map" class="col-md-12"></div>
         <script type="text/javascript">
 
@@ -52,8 +53,8 @@
 
 			function initMap() {
 			  map = new google.maps.Map(document.getElementById('map'), {
-			    center: {lat: 37.7792768, lng: -122.4192704},
-			    zoom: 9
+			    center: {lat: 33.8361, lng: -117.8897},
+			    zoom: 11
 			  });
 
 			  var counter = 0;
@@ -65,7 +66,6 @@
 			  var marker = new google.maps.Marker({
 			  position: {lat: {{ v[0] }}, lng: {{ v[1] }} },
 			  map: map,
-			  animation: google.maps.Animation.DROP,
 			  title: '{{ k }}'
 			  });
 
@@ -137,14 +137,17 @@
 			  			// Used to check if a show was just recently clicked
 			  			var clicked = false;
 			  			var showClicked = null;
+			  			var hovering = null;
+
 
 			  			// Change color of show item when hovering 
 						// mouse over to indicate clicking is an option
 						$(".show").hover(function() {
 						  	$(this).css("background", "#00522f");
 						  	$(this).css("cursor", "pointer");
+						  	hovering = this;
 						}, function() {
-							if(clicked) {
+							if(clicked && (showClicked==this)) {
 								$(this).css("background", "#00522f");
 								clicked = false;
 							}
@@ -158,6 +161,7 @@
 							}
 						  	
 						  	$(this).css("cursor", "default");
+						  	hovering = false;
 						});
 
 						// Change color of the show item when clicked to
@@ -166,18 +170,24 @@
 						// one will turn black again, assuming the user is checking more than one
 						$(".show").on('click', function() {
 							clicked = true;
-							$(showClicked).css("background", "#000000");
+							if(hovering != showClicked) {$(showClicked).css("background", "#000000");}
 							showClicked = this;
 						});
 
-						// Store the marker if its the initial city we want presented
-						// to the user on screen load
+						$("#show1").trigger("click");
+						$("#show1").css("background", "#00522f");
+
 			  		}
 			  	})(marker, counter));
-			  				  	// Trigger this marker to show the user shows and setlist on 
-				//google.maps.event.trigger(initialCityShown, 'click');	 
-			  {% endfor %}
-
+			  				  	
+			  // Trigger this marker to show the user shows and setlist on load	
+			  var name = marker.getTitle();
+			  if(name == "Anaheim, CA") {
+				google.maps.event.trigger(marker, 'click');
+				$("#show1").trigger("click");
+				$("#show1").css("background", "#00522f");	
+			  } 
+			  {% endfor %} 
 			}
     	</script>
     	<p id="instructions">Click on a marker to view the shows Metallica has played in that city</p>
@@ -217,5 +227,16 @@
     	<script async defer
 	      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD4Eou1cEa5tMgKakw5SSjwfNrnNeQ9TPo&callback=initMap">
 	    </script>
+
+	    <script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-67809448-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
     </body>
 </html>

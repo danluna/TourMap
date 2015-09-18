@@ -39,7 +39,7 @@ body {
 	font-size: 32px;
 }
 
-#title, .setlistHeader, #instructions, #defaultResults {
+#title, .setlistHeader, #instructions, #defaultResults, #titleDescription {
 	text-align: center;
 }
 
@@ -50,7 +50,6 @@ body {
 .show, #cityConcertInfo {
 
 }
-
 
 
 

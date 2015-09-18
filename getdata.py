@@ -29,10 +29,6 @@ with open('metallica_data.txt') as f:
 		elif lineType == 4:	# Process link
 			link = line.strip()
 
-			if link == 'N/A':  # A setlist was not available for this show
-				link = "Setlist Not Available"
-				lineType = 5
-
 		elif lineType == 5:	# Process setlist
 			# Check for end of setlist (empty line)
 			if not line.strip():
@@ -50,12 +46,28 @@ with open('metallica_data.txt') as f:
 		if lineType != 5:
 			lineType += 1
 
+"""flee =  open('coordinates.txt', 'w')
+
+for c in concerts:
+	while(1): 
+		try:
+			location = geolocator.geocode(c)
+			break
+		except GeocoderTimedOut as e:
+			print("geocode failed")
+
+	print("writing " + c)
+	flee.write(c + ": " + str(location.latitude) + " " + str(location.longitude) + '\n')
+
+flee.close()"""
+
 # Store the coordinates into the coordinates dictionary
 with open('coordinates.txt') as f:
 	for line in f:
 		colonSplit = line.split(': ')
 		city = colonSplit[0]
 		coordSplit = colonSplit[1].split(" ")
-		coordinates[city] = (float(coordSplit[0].strip()), (coordSplit[1].strip()))
+		coordinates[city] = (float(coordSplit[0].strip()), float(coordSplit[1].strip()))
+		print(city + ": %.2f  %.2f" % (coordinates[city][0], coordinates[city][1]))
 
 

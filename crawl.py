@@ -5,10 +5,11 @@ unicode_Error_Counter = 0
 
 def tour_spider(max_year):
 	year = 1982
+	page = 1
 	fw = open('metallica_data.txt', 'w')
 
 	while year <= max_year:
-		url = 'http://www.metallica.com/tour_date_list.asp?year=' + str(year)
+		url = 'http://www.metallica.com/tour_date_list.asp?year=' + str(year) + '&page=' + str(page)
 		source_code = requests.get(url)
 		plain_text = source_code.text
 		soup = BeautifulSoup(plain_text, "html.parser")
@@ -34,8 +35,8 @@ def tour_spider(max_year):
 					setlist_url = a_tag.get('href')
 					source_code = requests.get(setlist_url)
 					plain_text = source_code.text
-					soup = BeautifulSoup(plain_text, "html.parser")
-					data = soup.find('table', class_="DDT-panel")
+					soup2 = BeautifulSoup(plain_text, "html.parser")
+					data = soup2.find('table', class_="DDT-panel")
 
 					firstItem = True
 					for song in data.findAll('tr'):
@@ -58,7 +59,8 @@ def tour_spider(max_year):
 
 				except AttributeError:
 					print("N/A")
-					fw.write('N/A')
+					print(setlist_url)
+					fw.write(setlist_url)
 					fw.write('\n')
 
 
@@ -67,7 +69,13 @@ def tour_spider(max_year):
 		except AttributeError:
 			print("No tour dates this year")
 		
-		year+=1
+		# Check for more pages for this year
+		liTags = soup.find(attrs={'class': 'next_page'})
+		if not liTags:
+			year+=1
+			page=1
+		else:
+			page+=1
 
 	# End of spider, close file write
 	fw.close()
