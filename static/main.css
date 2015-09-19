@@ -54,13 +54,20 @@ body {
 	color: white;
 }
 
-/*#mapArea, #setlistArea {
-	background-image: url("texture.jpg");
-}*/
+#logo {
+	width: 300px;
+	height: 170px;
+}
 
-/*#cityHistoryList, #historyTitleCity, #cityConcertInfo {
-	opacity: 1;
-}*/
+#logo img {
+	width: 100%;
+	height: auto;
+}
+
+#logoout div {
+	display: block;
+	margin: auto;
+}
 
 
 
