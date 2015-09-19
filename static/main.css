@@ -35,6 +35,7 @@
 
 body {
 	font-family: Tahoma, Geneva, sans-serif;
+	background-color: #131312;
 }
 
 #title, #historyTitleCity {
@@ -47,6 +48,10 @@ body {
 
 #instructions {
 	font-size: 20px;
+}
+
+#historyTitleCity {
+	color: white;
 }
 
 /*#mapArea, #setlistArea {
