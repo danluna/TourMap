@@ -46,8 +46,8 @@ body {
 	text-align: center;
 }
 
-#instructions {
-	font-size: 20px;
+#instructions, #titleDescription {
+	font-size: 18px;
 }
 
 #historyTitleCity {
