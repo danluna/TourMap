@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
+        <title>Metallica Tour Map</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -41,7 +41,7 @@
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
-      <div class="container">
+      <div class="container" id="mapArea">
       	<div><p id="title">Metallica Tour Map</p></div>
       	<p id="titleDescription">Metallica's Tour History Visualized On A World Map</p>
       	<div id="map" class="col-md-12"></div>
@@ -139,13 +139,13 @@
 			  			// Change color of show item when hovering 
 						// mouse over to indicate clicking is an option
 						$(".show").hover(function() {
-						  	$(this).css("background", "#b2b229");
+						  	$(this).css("background", "#FEE600");
 						  	$(this).css("color", "black");
 						  	$(this).css("cursor", "pointer");
 						  	hovering = this;
 						}, function() {
 							if(clicked && (showClicked==this)) {
-								$(this).css("background", "#b2b229");
+								$(this).css("background", "#FEE600");
 								$(this).css("color", "black");
 								clicked = false;
 							}
@@ -177,7 +177,7 @@
 						});
 
 						$("#show1").trigger("click");
-						$("#show1").css("background", "#b2b229");
+						$("#show1").css("background", "#FEE600");
 						$("#show1").css("color", "black");
 
 			  		}
@@ -188,7 +188,7 @@
 			  if(name == "Anaheim, CA") {
 				google.maps.event.trigger(marker, 'click');
 				$("#show1").trigger("click");
-				$("#show1").css("background", "#b2b229");
+				$("#show1").css("background", "#FEE600");
 				$("#show1").css("color", "black");	
 			  } 
 			  {% endfor %} 
@@ -198,7 +198,7 @@
       </div>
     </div>
 
-    <div class="container">
+    <div class="container" id="setlistArea">
       <!-- Example row of columns -->
       <div class="row">
       	<div class="col-md-12">
@@ -211,10 +211,6 @@
         <div id="cityConcertInfo" class="col-md-7">
         </div>
       </div>
-      <hr>
-
-      <footer>
-      </footer>
     </div> <!-- /container -->        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 
         <script src="{{ url_for('static', filename = 'jquery-1.11.2.min.js') }}"></script>
