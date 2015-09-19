@@ -6,7 +6,7 @@
 
 .show {
 	color: white;
-	background-color: #3b3c40;
+	/*background-color: #3b3c40;*/
 	font-size: 16px;
 	font-style: bold;
 }
@@ -17,9 +17,12 @@
 
 #cityConcertInfo {
 	color: white;
-	background-color: #3b3c40;
 	font-size: 16px;
 	visibility: hidden;
+}
+
+.show, #cityConcertInfo {
+	background-color: #4A4B46;
 }
 
 .jumbotron {

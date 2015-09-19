@@ -50,8 +50,7 @@
 
 			var map;
 			var initialCityShown = null;
-			var activeShowColor = "#3b3c40";
-			var unActiveShowColor = "#b2b229";
+			var grayBack = "#4A4B46";
 
 			function initMap() {
 			  map = new google.maps.Map(document.getElementById('map'), {
@@ -135,7 +134,7 @@
 			  			var clicked = false;
 			  			var showClicked = null;
 			  			var hovering = null;
-
+			  			//var grayBack = "#1F201B";
 
 			  			// Change color of show item when hovering 
 						// mouse over to indicate clicking is an option
@@ -155,7 +154,7 @@
 
 								}
 								else {
-									$(this).css("background", "#3b3c40");
+									$(this).css("background", grayBack);
 									$(this).css("color", "white");
 								}
 							}
@@ -171,7 +170,7 @@
 						$(".show").on('click', function() {
 							clicked = true;
 							if(hovering != showClicked) {
-								$(showClicked).css("background", "#3b3c40"); 
+								$(showClicked).css("background", grayBack); 
 								$(showClicked).css("color", "white");
 							}
 							showClicked = this;
