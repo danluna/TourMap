@@ -69,7 +69,7 @@
 			  position: {lat: {{ v[0] }}, lng: {{ v[1] }} },
 			  map: map,
 			  title: '{{ k }}',
-			  icon: "{{ url_for('static', filename = 'red_marker.png') }}"
+			  icon: "{{ url_for('static', filename = 'graymarker.png') }}"
 			  });
 
 			  counter++;
@@ -83,11 +83,11 @@
 
 			  			// Set the previous marker to a normal icon !! Still need to finish this. previousMarker needs a marker reference, its currently null
 			  			if(previousMarker) {
-			  				previousMarker.setIcon("{{ url_for('static', filename = 'red_marker.png') }}");
+			  				previousMarker.setIcon("{{ url_for('static', filename = 'graymarker.png') }}");
 			  			}
 
 			  			// Change the marker icon
-			  			marker.setIcon("{{ url_for('static', filename = 'yellow_marker.png') }}");
+			  			marker.setIcon("{{ url_for('static', filename = 'redmarker.png') }}");
 
 			  			var cityName = marker.getTitle();
 
