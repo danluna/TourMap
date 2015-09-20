@@ -51,6 +51,7 @@
 			var map;
 			var initialCityShown = null;
 			var grayBack = "#4A4B46";
+			var previousMarker = null;
 
 			function initMap() {
 			  map = new google.maps.Map(document.getElementById('map'), {
@@ -67,7 +68,8 @@
 			  var marker = new google.maps.Marker({
 			  position: {lat: {{ v[0] }}, lng: {{ v[1] }} },
 			  map: map,
-			  title: '{{ k }}'
+			  title: '{{ k }}',
+			  icon: "{{ url_for('static', filename = 'darkgreen_MarkerM.png') }}"
 			  });
 
 			  counter++;
@@ -78,6 +80,14 @@
 			  google.maps.event.addListener(marker, 'click', 
 			  	(function(marker, counter) {
 			  		return function() {
+
+			  			// Set the previous marker to a normal icon !! Still need to finish this. previousMarker needs a marker reference, its currently null
+			  			if(previousMarker) {
+			  				previousMarker.setIcon("{{ url_for('static', filename = 'darkgreen_MarkerM.png') }}");
+			  			}
+
+			  			// Change the marker icon
+			  			marker.setIcon("{{ url_for('static', filename = 'blue_MarkerM.png') }}");
 
 			  			var cityName = marker.getTitle();
 
@@ -179,6 +189,9 @@
 						$("#show1").trigger("click");
 						$("#show1").css("background", "#FEE600");
 						$("#show1").css("color", "black");
+
+						// Store this marker
+						previousMarker = this;
 
 			  		}
 			  	})(marker, counter));
