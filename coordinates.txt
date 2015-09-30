@@ -31,7 +31,7 @@ Rouen, France: 49.4404591 1.0939658
 San Quentin, CA: 37.9413133 -122.4849739
 Belfast, Northern Ireland: 54.5969467 -5.9301554
 Lund, Sweden: 55.7029296 13.1929449
-Rockingham, NC: 36.3926798 -79.744144
+Rockingham, NC: 34.9349 -79.7766
 Charleston, WV: 38.3498221 -81.6326301
 Yonkers, NY: 40.9312099 -73.8987469
 Riga, Latvia: 56.9493977 24.1051846
